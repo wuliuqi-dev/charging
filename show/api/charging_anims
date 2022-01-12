@@ -1,0 +1,3741 @@
+[
+  {
+    "id": 222,
+    "name": "Top",
+    "name_l10n": {
+      "en": "Top",
+      "zh": "顶部",
+      "zh_Hant_TW": "頂部",
+      "zh_Hant_HK": "頂部"
+    },
+    "icon": "/oss/volt/battery_tags_icons/01W93vwfKJ84ZnrXWkoyke5rTCOI6hhHTnBatVqa.png",
+    "charging_anims": [
+      {
+        "id": 2516,
+        "preview": "/oss/volt/battery_preview_images/RCPw54fgE55gDeFkfialuHYgoORni1lH4zGk5W7k.jpg",
+        "video": "/oss/volt/battery_videos/4yFSCkauOSHUj9HC5HqwIQ2FnT9v4bQamLJmig0i.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/16FbEnXAJe9QG9sdvDvDNMBO3fIaO5i2KuUn2WJS.mp3"
+        }
+      },
+      {
+        "id": 2527,
+        "preview": "/oss/volt/battery_preview_images/S6vM94BIUq1BXEmXtdEggltXhkzJwXRJbzWuzBkK.jpg",
+        "video": "/oss/volt/battery_videos/60lBVFnSFbvJHqL2xXwkbB0s8qKH6KYliNik88ax.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/1E1fP01BVbchZT9Av2doyEeMfeJ6cc7CShw23FtR.mp3"
+        }
+      },
+      {
+        "id": 2518,
+        "preview": "/oss/volt/battery_preview_images/q9UqSDrbxsrq0FQOeYgmfehKZKpFxZ2JMI83yI2J.JPG",
+        "video": "/oss/volt/battery_videos/cvArOSSaSC9gTGeMObiAexMiaMAJ6D4PpAiT9Gdq.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 29,
+          "url": "/oss/volt/battery_lightnings/NitJsqZ9VwAPerxMfXJ3OFIIAou58hLi86BNz96Z.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2528,
+        "preview": "/oss/volt/battery_preview_images/FBY4ZgLLrSEnsaYfR88FAYRYDtJY0O9YtmgpazNG.jpg",
+        "video": "/oss/volt/battery_videos/Jk7FKO3CLLsDwfo8iLk8F1vmDcm8uFMX7bnzKCrS.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 25,
+          "url": "/oss/volt/battery_lightnings/3O7New10A80wHVBX98AYtULE8sccTfQoOqFmn5oA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2525,
+        "preview": "/oss/volt/battery_preview_images/w2oPSx8METCcCSlPRLPX5FnFCR9TPnzzeWGUdrg8.jpg",
+        "video": "/oss/volt/battery_videos/ltKQCKyV289ZSpLfSmwVULg4tfI5AAdsClmKUTUw.mp4",
+        "lightning_position": "top",
+        "sound": {
+          "url": "/oss/volt/battery_sounds/DOkJiAbUEU0BMVsQdTu5EkDqdfENjCejUfcTruCe.mp3"
+        }
+      },
+      {
+        "id": 2530,
+        "preview": "/oss/volt/battery_preview_images/3Oyic6jwjqu2dSFo0W8PIAIokfBNhuUwnx1zYEzT.jpg",
+        "video": "/oss/volt/battery_videos/4Ia2YMDpfp5iwLEI0mkowsOc5KRpP5wG5scZ3t5a.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2522,
+        "preview": "/oss/volt/battery_preview_images/0w8gR70JR3w40jYAlLOI1UPcYFRys9ZAgLj0T4Km.jpg",
+        "video": "/oss/volt/battery_videos/njAJg6E1BVmRnMwxbfZ3zwFC7QH5mqw8TCfi4sXJ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/CA8Esa2C4RXl51S1jhYW5ZYqpisI7GIiwA0aXAQS.mp3"
+        }
+      },
+      {
+        "id": 2526,
+        "preview": "/oss/volt/battery_preview_images/PwuOwjUi22aB0PuTP9E8oh1pvrwpyUvqEJiIcKhk.jpg",
+        "video": "/oss/volt/battery_videos/NlllCUMjakhDejXwZCpm7IGpHYuVQlaFl3DwB3qK.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/WN51aNhjUrPUThFNyVBymIKam187VkUT1I2yVMsi.mp3"
+        }
+      },
+      {
+        "id": 2520,
+        "preview": "/oss/volt/battery_preview_images/i5NslxeHGcfcEiYAdj4GHX5FuCySGhgYQbjXggsX.jpg",
+        "video": "/oss/volt/battery_videos/x69zOB0ilch5ztulJ884t1ak3KsOWOQJh8dzba8s.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 9,
+          "url": "/oss/volt/battery_lightnings/l6jv3vMeTmu9sSDw3FoUDjBtpXFNXUeO0PF90n4F.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/HsWnwzy3rUra336nHMuEu1iVnCFvTYT9BbJ6aOdf.mp3"
+        }
+      },
+      {
+        "id": 2521,
+        "preview": "/oss/volt/battery_preview_images/ZDfR8fdV4Hmvhpe0oNbGuskUvrbGT8DkfTOOMJEm.jpg",
+        "video": "/oss/volt/battery_videos/VBwTXTY1QLlFIkqDNjUkqHsEx4oLPDv0m7aneXa3.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2529,
+        "preview": "/oss/volt/battery_preview_images/lbPSS0GkQASdPkVPQH1BnRPnzyC0IMCj78CbGnRd.jpg",
+        "video": "/oss/volt/battery_videos/hKM9NR6p4W1UaVtOHaXrESG2lcB1bVEzeRgvX8Lq.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 24,
+          "url": "/oss/volt/battery_lightnings/G4f5MVUIU0MH2ygA91S4c64YXjSb9EZtXZ8yl6Gx.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/TZs5qNqopgUHv2MOnIVeRohRwRAs5NgiUglhr1rT.mp3"
+        }
+      },
+      {
+        "id": 2523,
+        "preview": "/oss/volt/battery_preview_images/iaNjjny9rEXTsIgEE9Ne3D013NYm5mWrVtWRriDa.jpg",
+        "video": "/oss/volt/battery_videos/AKGKI91JHX2SavFIsu0baNHB0RDVoMpajFvDdQlA.mp4"
+      },
+      {
+        "id": 2524,
+        "preview": "/oss/volt/battery_preview_images/8dB0NjcMV1H1MJfU5OILwuQOwdRkMQqPELl0s4rj.jpg",
+        "video": "/oss/volt/battery_videos/ZbyX5d82rgPLmhs6cM4m3OgAWZ2hFrbh6ED0fpv0.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/lMMEqi3set7ZklHGdeADJrj3KrnHvG4899MdMqot.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Free",
+    "name_l10n": {
+      "en": "Free",
+      "zh": "免费",
+      "zh_Hant_TW": "免費",
+      "zh_Hant_HK": "免費"
+    },
+    "icon": "/oss/volt/battery_tags_icons/Bp05rkqgOf710RHiWoRTGP7CX1vWBSVyvBrsEGl8.png",
+    "charging_anims": [
+      {
+        "id": 2661,
+        "preview": "/oss/volt/battery_preview_images/QN0dJVLgnyihNtvpxE7YyWFhgh8pK4DL0jOM3orE.jpg",
+        "video": "/oss/volt/battery_videos/PzZcWes74ZP2sRlJyNNiNxkQxjh84jJK62x98RCe.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 2,
+          "name": "Apatite",
+          "name_l10n": {
+            "en": "Apatite",
+            "zh": "磷灰色",
+            "zh_Hant_TW": "磷灰色",
+            "zh_Hant_HK": "磷灰色"
+          },
+          "color": "#ff40d6ff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/yKGxDN9bSYY11W0sWMSrt3vssSSndtvTV2vyz7ro.mp3"
+        }
+      },
+      {
+        "id": 2664,
+        "preview": "/oss/volt/battery_preview_images/M09HjTx5V7DayLeRtviSmxCP7e2pdcqwUw57tIUt.jpg",
+        "video": "/oss/volt/battery_videos/i5QMPYvaIcKDWlwWqrhpUYJAJjiucKOGaI3yXrZM.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 2,
+          "name": "Apatite",
+          "name_l10n": {
+            "en": "Apatite",
+            "zh": "磷灰色",
+            "zh_Hant_TW": "磷灰色",
+            "zh_Hant_HK": "磷灰色"
+          },
+          "color": "#ff40d6ff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2658,
+        "preview": "/oss/volt/battery_preview_images/AG4FvdkQUOI8TUBKTp6HexaYpiuBLjaqKbg9cj78.jpg",
+        "video": "/oss/volt/battery_videos/EplYY78DDSRIsJmlyXNCTVKUHkMWUV2Xlbye1PUD.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 2,
+          "name": "Apatite",
+          "name_l10n": {
+            "en": "Apatite",
+            "zh": "磷灰色",
+            "zh_Hant_TW": "磷灰色",
+            "zh_Hant_HK": "磷灰色"
+          },
+          "color": "#ff40d6ff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 23,
+          "url": "/oss/volt/battery_lightnings/yj5OlIuFxWgTdDAM8c5An1DMPjU2Lyy1U6D8ax0j.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/CA8Esa2C4RXl51S1jhYW5ZYqpisI7GIiwA0aXAQS.mp3"
+        }
+      },
+      {
+        "id": 2659,
+        "preview": "/oss/volt/battery_preview_images/chHKXnMb2nNmlIx0m5wfj2EYKksO40sE8uTXQ1bb.jpg",
+        "video": "/oss/volt/battery_videos/Hij8b6ol7Tp0HdCVFEEVPUAb0kueiNmr0upOJC4J.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2666,
+        "preview": "/oss/volt/battery_preview_images/2Bjy7KpQeLtyBQH64eNPfonRFe607eXDj2H2DGMK.png",
+        "video": "/oss/volt/battery_videos/k1RGX57APxbTtgSsoTE9SDT2EZLQU3HbvT3qbwgQ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/eZdQup64UMZY76NZdymxHge8tISvnN6VkqOIKRZ2.mp3"
+        }
+      },
+      {
+        "id": 2663,
+        "preview": "/oss/volt/battery_preview_images/LMctFppZrUtMMiyOG020iOrunl8BONSdP8zR0znV.jpg",
+        "video": "/oss/volt/battery_videos/aiVroUSaAEBucOA2jBoyeq4HjIipQSfG2Md7LPuO.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2662,
+        "preview": "/oss/volt/battery_preview_images/Abe6i21lhEBe2N8C0Ns0wxq5g4cz3IvJooNXex12.jpg",
+        "video": "/oss/volt/battery_videos/GFVzHrSADSPkyh4leD8Y2DpqkwmD1wqMVtleu55v.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 6,
+          "url": "/oss/volt/battery_lightnings/FI4i9iMZ8aePBrEGOCYUHDZRt1B2cHhwNJnoZ1AK.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/CA8Esa2C4RXl51S1jhYW5ZYqpisI7GIiwA0aXAQS.mp3"
+        }
+      },
+      {
+        "id": 2665,
+        "preview": "/oss/volt/battery_preview_images/QQmPqmA95psomKFpyue8xU8nP8AsjPB768o5bzey.png",
+        "video": "/oss/volt/battery_videos/JHWhvw8hHMCrA2ezq0Ql0Jju8yMbYnLe5CsuCCb8.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/45mvDYlNy1N5eLhbeuoYLd4V7C8jmU80XXgxesuN.mp3"
+        }
+      },
+      {
+        "id": 2660,
+        "preview": "/oss/volt/battery_preview_images/DY2O6a3XzyoQDAEQiyATWB3ZrMiD5a5itzagqdR3.jpg",
+        "video": "/oss/volt/battery_videos/JiPq4B4fB08Jlr0O8FTaE5P2kbAJZKUFrSW4z3Rn.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 5,
+          "name": "Evening Pink",
+          "name_l10n": {
+            "en": "Evening Pink",
+            "zh": "暮粉色",
+            "zh_Hant_TW": "暮粉色",
+            "zh_Hant_HK": "暮粉色"
+          },
+          "color": "#fffe87f1",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Christmas",
+    "name_l10n": {
+      "en": "Christmas",
+      "zh": "新年",
+      "zh_Hant_TW": "新年",
+      "zh_Hant_HK": "新年"
+    },
+    "icon": "/oss/volt/battery_tags_icons/TAHQLPf7fVwj0N1cf2IyuxRGaSRf7bEvIwcfbkzC.png",
+    "charging_anims": [
+      {
+        "id": 2667,
+        "preview": "/oss/volt/battery_preview_images/gqPdntL9RLv4QjPhdYv6vRg6JMTsj2VkEAzGlSaF.png",
+        "video": "/oss/volt/battery_videos/wgqc7GG64cz1tECENtd4vkAan0FyxdsahIu1xY7T.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 13,
+          "url": "/oss/volt/battery_lightnings/ugHx9C5Er8W8U9EGw42kmh1nb1gCeKqfYJje9Abf.png"
+        },
+        "sound": {
+          "id": 81,
+          "name": "Jingle Bells",
+          "name_l10n": {
+            "en": "Jingle Bells",
+            "zh": "铃儿响叮当",
+            "zh_Hant_TW": "鈴兒響叮當",
+            "zh_Hant_HK": "鈴兒響叮當"
+          },
+          "url": "/oss/volt/battery_sounds/Vf5nX2EUeR8sQucJG2U9UTyb4gv5vpUm9TbLvFua.mp3"
+        }
+      },
+      {
+        "id": 2671,
+        "preview": "/oss/volt/battery_preview_images/4UemXfTxwSNrWmQsAditUvkCtm2re8C8nB4vQOox.png",
+        "video": "/oss/volt/battery_videos/oXGVbbPrQrXj3C4RTXl3zWaUGoMUcc0MocRRpS5B.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "id": 82,
+          "name": "Happy New Year",
+          "name_l10n": {
+            "en": "Happy New Year",
+            "zh": "新年快乐",
+            "zh_Hant_TW": "新年快樂",
+            "zh_Hant_HK": "新年快樂"
+          },
+          "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+        }
+      },
+      {
+        "id": 2677,
+        "preview": "/oss/volt/battery_preview_images/sYdRkUAhtRUM49NWHkotZ7PuiPrf30tKUdzW1TvU.png",
+        "video": "/oss/volt/battery_videos/8DSPispT3JpsJpkOEjX0tTtEnBPNJVqgVNoVaK5n.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "id": 83,
+          "name": "Santa's Coming",
+          "name_l10n": {
+            "en": "Santa's Coming",
+            "zh": "圣诞老人要来了",
+            "zh_Hant_TW": "聖誕老人要來了",
+            "zh_Hant_HK": "聖誕老人要來了"
+          },
+          "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+        }
+      },
+      {
+        "id": 2676,
+        "preview": "/oss/volt/battery_preview_images/9rAgg9tiefHWI70DlsL3cOsPicqca8uc5um4c5gy.png",
+        "video": "/oss/volt/battery_videos/VGgs7P8qMHn8HhF5zypVqjeSxqJ30sQj4S7703j9.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "id": 83,
+          "name": "Santa's Coming",
+          "name_l10n": {
+            "en": "Santa's Coming",
+            "zh": "圣诞老人要来了",
+            "zh_Hant_TW": "聖誕老人要來了",
+            "zh_Hant_HK": "聖誕老人要來了"
+          },
+          "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+        }
+      },
+      {
+        "id": 2669,
+        "preview": "/oss/volt/battery_preview_images/ASRCwNbrW4sripKZJfNuhHuUBpLqPGqYLcf0fHSe.png",
+        "video": "/oss/volt/battery_videos/MiSdt7nxhFr2d2t82SygoBwR6kUfavz4YKGOYCtB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "id": 81,
+          "name": "Jingle Bells",
+          "name_l10n": {
+            "en": "Jingle Bells",
+            "zh": "铃儿响叮当",
+            "zh_Hant_TW": "鈴兒響叮當",
+            "zh_Hant_HK": "鈴兒響叮當"
+          },
+          "url": "/oss/volt/battery_sounds/Vf5nX2EUeR8sQucJG2U9UTyb4gv5vpUm9TbLvFua.mp3"
+        }
+      },
+      {
+        "id": 2674,
+        "preview": "/oss/volt/battery_preview_images/I43DfG89KkDrtmW0IG3p7FLP8o9OCqNZV3eI2hTR.png",
+        "video": "/oss/volt/battery_videos/OATDuCsTCGg7RneFx49mccUfV9ILiUGOaA8L1aub.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "id": 83,
+          "name": "Santa's Coming",
+          "name_l10n": {
+            "en": "Santa's Coming",
+            "zh": "圣诞老人要来了",
+            "zh_Hant_TW": "聖誕老人要來了",
+            "zh_Hant_HK": "聖誕老人要來了"
+          },
+          "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+        }
+      },
+      {
+        "id": 2670,
+        "preview": "/oss/volt/battery_preview_images/UAk4vjAnFkQxMN0zoMiIHoGOSiaNGtxGG7nEZVss.png",
+        "video": "/oss/volt/battery_videos/9oW6xO4aPk1jJwZyKFjMDxc8sXidoKbWGQklguoB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "id": 82,
+          "name": "Happy New Year",
+          "name_l10n": {
+            "en": "Happy New Year",
+            "zh": "新年快乐",
+            "zh_Hant_TW": "新年快樂",
+            "zh_Hant_HK": "新年快樂"
+          },
+          "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+        }
+      },
+      {
+        "id": 2668,
+        "preview": "/oss/volt/battery_preview_images/18fFzhkTbjvxwNxJtvHPAwd95yCqKWUu6vAWoQDn.png",
+        "video": "/oss/volt/battery_videos/SlpzI8VQROV5TLmben76cmayq0IcouwQIZbVyFQT.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "sound": {
+          "id": 81,
+          "name": "Jingle Bells",
+          "name_l10n": {
+            "en": "Jingle Bells",
+            "zh": "铃儿响叮当",
+            "zh_Hant_TW": "鈴兒響叮當",
+            "zh_Hant_HK": "鈴兒響叮當"
+          },
+          "url": "/oss/volt/battery_sounds/Vf5nX2EUeR8sQucJG2U9UTyb4gv5vpUm9TbLvFua.mp3"
+        }
+      },
+      {
+        "id": 2672,
+        "preview": "/oss/volt/battery_preview_images/gs5z2zaSCHr4TnF5pcgvpUSaFYdHtdQ8gWcDtKka.png",
+        "video": "/oss/volt/battery_videos/KkNx8kNDXIgLa7IgeeFnPg0t9pxg8mNsmcU7Wn4l.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 14,
+          "url": "/oss/volt/battery_lightnings/oY3lyQQjkiclVr3DGaco897iVWYHLQMB0atq3xtn.png"
+        },
+        "sound": {
+          "id": 82,
+          "name": "Happy New Year",
+          "name_l10n": {
+            "en": "Happy New Year",
+            "zh": "新年快乐",
+            "zh_Hant_TW": "新年快樂",
+            "zh_Hant_HK": "新年快樂"
+          },
+          "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+        }
+      },
+      {
+        "id": 2673,
+        "preview": "/oss/volt/battery_preview_images/PPvPQyLlZNdlnddljienxzQ0sKQYWRzZJ4tXnOuK.png",
+        "video": "/oss/volt/battery_videos/gBxrgf1sLFv81nJDfGbQUq1TjaUv8peqswJH9Ksk.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "id": 82,
+          "name": "Happy New Year",
+          "name_l10n": {
+            "en": "Happy New Year",
+            "zh": "新年快乐",
+            "zh_Hant_TW": "新年快樂",
+            "zh_Hant_HK": "新年快樂"
+          },
+          "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+        }
+      },
+      {
+        "id": 2675,
+        "preview": "/oss/volt/battery_preview_images/o2eKOZh1dmEaFhDNBZbXbnhgFLCgXDH621y5fxqE.png",
+        "video": "/oss/volt/battery_videos/h9CX5D3076ctoiuaHD4BnNjumo9q0keyf0rN2Gyv.mp4",
+        "sound": {
+          "id": 83,
+          "name": "Santa's Coming",
+          "name_l10n": {
+            "en": "Santa's Coming",
+            "zh": "圣诞老人要来了",
+            "zh_Hant_TW": "聖誕老人要來了",
+            "zh_Hant_HK": "聖誕老人要來了"
+          },
+          "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+        }
+      },
+      {
+        "id": 2678,
+        "preview": "/oss/volt/battery_preview_images/0SK36qak3i5CFNgezvhW0H2NBaR6ro5NBGE8w5jH.png",
+        "video": "/oss/volt/battery_videos/ngzpk3KBg0lawGJKji9CJL06B513GakjVkOzXvmN.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "id": 83,
+          "name": "Santa's Coming",
+          "name_l10n": {
+            "en": "Santa's Coming",
+            "zh": "圣诞老人要来了",
+            "zh_Hant_TW": "聖誕老人要來了",
+            "zh_Hant_HK": "聖誕老人要來了"
+          },
+          "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Halloween",
+    "name_l10n": {
+      "en": "Halloween",
+      "zh": "万圣节",
+      "zh_Hant_TW": "萬聖節",
+      "zh_Hant_HK": "萬聖節"
+    },
+    "icon": "/oss/volt/battery_tags_icons/fK9VIL6wMBRw1Y3NTXVbEI5EwaUK9YIGzAIcgker.png",
+    "charging_anims": [
+      {
+        "id": 2531,
+        "preview": "/oss/volt/battery_preview_images/semeSYc4baAcLUIiaRYhCLFRT3a2R14jk784zhH5.png",
+        "video": "/oss/volt/battery_videos/WXXWXvs20usE9x0RJ9EEQAFWPIeY4F9z6UaPBIs5.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ydR9U4KOhO0o2LtYBrDoAPNxMH4l4jNQXvOXYMCu.mp3"
+        }
+      },
+      {
+        "id": 2537,
+        "preview": "/oss/volt/battery_preview_images/zgWhUMakjHnQp7cvYapqcV62oIaMQlGxkOlltKwS.png",
+        "video": "/oss/volt/battery_videos/XRNlvAYObUIuD6ZRsImj8dhgg1lGAmRTmC9ZxgIc.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/Cz1MorS78o9nkQPGZrmMD2LVACQFYFRWzyZqEzI3.mp3"
+        }
+      },
+      {
+        "id": 2535,
+        "preview": "/oss/volt/battery_preview_images/B8aEFReC1PedHgjMgYhbeUXtmyUCAdBTU0YF97IO.png",
+        "video": "/oss/volt/battery_videos/61VZ3MOla3gItNodJ3pBGR5kE9jPiGGCMJDXdkuB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/JetbS5s4wOHLLTBFZq5OXLz3937kOQkYTCl3ILd5.mp3"
+        }
+      },
+      {
+        "id": 2538,
+        "preview": "/oss/volt/battery_preview_images/SCvA0EFfPPZ11X4YdeotPj9fm3Duao87EEZYtYjU.png",
+        "video": "/oss/volt/battery_videos/5q65gBVmfDk27TKxjwO3GDXIoQ5ODNHCmQBW4hXh.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 11,
+          "url": "/oss/volt/battery_lightnings/5j2sXwJvPoTm2uOpCBxrWGWecARMifbJ8WSsyS3c.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/qqCpiqaAwlCeLhYbUD9aklXxaiQ5iK8FguP632gt.mp3"
+        }
+      },
+      {
+        "id": 2532,
+        "preview": "/oss/volt/battery_preview_images/PpIoZAZcCBJVw2250N7eqBFsxtzEczE0NTCucypG.png",
+        "video": "/oss/volt/battery_videos/6tMZDrQYzZ7HLymetM1HHKiu9Qdf2HxFKVTWG3Hm.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 25,
+          "url": "/oss/volt/battery_lightnings/3O7New10A80wHVBX98AYtULE8sccTfQoOqFmn5oA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/5KrXN94mcADkleBHFSeWVyBdAKZz8z0PkPy52rbk.mp3"
+        }
+      },
+      {
+        "id": 2533,
+        "preview": "/oss/volt/battery_preview_images/SsC21nkCFtFVGXmwp8oUj6juEPFnsCZFMgHeH4Ev.png",
+        "video": "/oss/volt/battery_videos/LaXCfTOqpaHTh7B6qGQHgwy1ZjlNdDUtcat8xVTC.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ydR9U4KOhO0o2LtYBrDoAPNxMH4l4jNQXvOXYMCu.mp3"
+        }
+      },
+      {
+        "id": 2536,
+        "preview": "/oss/volt/battery_preview_images/X6dRJzi1q9ZvdppNYB5PTWfNxsfslInClC4C9gbJ.png",
+        "video": "/oss/volt/battery_videos/izH7UeobFEyJfexEt3wc5thmuZV5XKChpkkXkMrb.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/Cz1MorS78o9nkQPGZrmMD2LVACQFYFRWzyZqEzI3.mp3"
+        }
+      },
+      {
+        "id": 2539,
+        "preview": "/oss/volt/battery_preview_images/nuU6EQkPuw0sVlfrvq9TsWiejjfnZIqy5VgZmXmn.png",
+        "video": "/oss/volt/battery_videos/cTxg7YiXU5htjGRSQwDCTc2tYD3WmGjEHa5BUUTN.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/qqCpiqaAwlCeLhYbUD9aklXxaiQ5iK8FguP632gt.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Anime Art",
+    "name_l10n": {
+      "en": "Anime Art",
+      "zh": "动漫艺术",
+      "zh_Hant_TW": "動漫藝術",
+      "zh_Hant_HK": "動漫藝術"
+    },
+    "icon": "/oss/volt/battery_tags_icons/bfo8qoUPugRIeeFQUc8pMuKtJB9YovPMeEdxqJBF.png",
+    "charging_anims": [
+      {
+        "id": 2540,
+        "preview": "/oss/volt/battery_preview_images/nJlfUYCpvcdcvI5n1NDuwJiiIhVmdFGsej2O4zTR.png",
+        "video": "/oss/volt/battery_videos/MzLsP4zY46ppZweIlBSwn1MS2C8OmUuhXEmoMpzS.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "id": 64,
+          "name": "Hehe",
+          "name_l10n": {
+            "en": "Hehe",
+            "zh": "呵呵",
+            "zh_Hant_TW": "呵呵",
+            "zh_Hant_HK": "呵呵"
+          },
+          "url": "/oss/volt/battery_sounds/3z29Rs04WwG5vrPZumMszyHksXGPwLx97oRTYCWt.mp3"
+        }
+      },
+      {
+        "id": 2547,
+        "preview": "/oss/volt/battery_preview_images/cPGumn5MKfTA6D6D6Y4DZ8RgjLblR3RuK3qTEiQu.png",
+        "video": "/oss/volt/battery_videos/3WTYYqTB3JBO9OZlsSyXactKQG9lyE4z0cVlkc0c.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "id": 67,
+          "name": "Senpai",
+          "name_l10n": {
+            "en": "Senpai",
+            "zh": "前辈",
+            "zh_Hant_TW": "前輩",
+            "zh_Hant_HK": "前輩"
+          },
+          "url": "/oss/volt/battery_sounds/sVH0pUUWT8DJdyVPIki8sekoj8ZNG0njpPIpnOLZ.mp3"
+        }
+      },
+      {
+        "id": 2548,
+        "preview": "/oss/volt/battery_preview_images/BqBEm0fVFZB3y2LLPPwDdaPzQ5rRWRx1wiIIIUAE.png",
+        "video": "/oss/volt/battery_videos/RLRjg1MXlJDnin4Ci0l8GjAzb59hlEo6mOWwahhn.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 11,
+          "url": "/oss/volt/battery_lightnings/5j2sXwJvPoTm2uOpCBxrWGWecARMifbJ8WSsyS3c.png"
+        },
+        "sound": {
+          "id": 63,
+          "name": "Suki Suki",
+          "name_l10n": {
+            "en": "Suki Suki",
+            "zh": "书记书记",
+            "zh_Hant_TW": "書記書記",
+            "zh_Hant_HK": "書記書記"
+          },
+          "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+        }
+      },
+      {
+        "id": 2546,
+        "preview": "/oss/volt/battery_preview_images/ogwbKvkzuqu0xd6hYgLBQU4YsrLSXifT8GbLWrOd.png",
+        "video": "/oss/volt/battery_videos/dZVszXTfwCbW8xOdtuqxvBHaV3ODFkeG9fTTLdhu.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 13,
+          "url": "/oss/volt/battery_lightnings/ugHx9C5Er8W8U9EGw42kmh1nb1gCeKqfYJje9Abf.png"
+        },
+        "sound": {
+          "id": 67,
+          "name": "Senpai",
+          "name_l10n": {
+            "en": "Senpai",
+            "zh": "前辈",
+            "zh_Hant_TW": "前輩",
+            "zh_Hant_HK": "前輩"
+          },
+          "url": "/oss/volt/battery_sounds/sVH0pUUWT8DJdyVPIki8sekoj8ZNG0njpPIpnOLZ.mp3"
+        }
+      },
+      {
+        "id": 2542,
+        "preview": "/oss/volt/battery_preview_images/8uwcninukU6SKBb2k872wCEmZiMHWmdfPNMpyeXr.png",
+        "video": "/oss/volt/battery_videos/8fRtQKskGvhJgqPMwdCB9t9ZtYxa24oltxFYGKb5.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 11,
+          "url": "/oss/volt/battery_lightnings/5j2sXwJvPoTm2uOpCBxrWGWecARMifbJ8WSsyS3c.png"
+        },
+        "sound": {
+          "id": 66,
+          "name": "Panpakapan",
+          "name_l10n": {
+            "en": "Panpakapan",
+            "zh": "胖帕卡胖",
+            "zh_Hant_TW": "胖帕卡胖",
+            "zh_Hant_HK": "胖帕卡胖"
+          },
+          "url": "/oss/volt/battery_sounds/NatwKMhRj88f98BSOyqhmA7GFSdv4v69Gif0nwz6.mp3"
+        }
+      },
+      {
+        "id": 2553,
+        "preview": "/oss/volt/battery_preview_images/4xe8CrFgagxen3f7eYG1LB7qEsdWr0ibGYvErx2r.png",
+        "video": "/oss/volt/battery_videos/LrfjYE9Q94IIm2RWee6ThpKb6Bmh3jmzhQH3Ncd8.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "id": 65,
+          "name": "Wow!",
+          "name_l10n": {
+            "en": "Wow!",
+            "zh": "哇哦！",
+            "zh_Hant_TW": "哇哦！",
+            "zh_Hant_HK": "哇哦！"
+          },
+          "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+        }
+      },
+      {
+        "id": 2544,
+        "preview": "/oss/volt/battery_preview_images/o4syWaGvXhmQlVBLbQjVfjKTjtmc8RlyRrt3OIBF.png",
+        "video": "/oss/volt/battery_videos/EirNPWYkMI3WvsUtwY4g6N3UyhFOh62r5qslVnZJ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "id": 65,
+          "name": "Wow!",
+          "name_l10n": {
+            "en": "Wow!",
+            "zh": "哇哦！",
+            "zh_Hant_TW": "哇哦！",
+            "zh_Hant_HK": "哇哦！"
+          },
+          "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+        }
+      },
+      {
+        "id": 2550,
+        "preview": "/oss/volt/battery_preview_images/rMSMzbNDeNtjR9ObBufTNZixRH5DGerBJ0o41i2L.png",
+        "video": "/oss/volt/battery_videos/ifuBOThSICMgQ53hj6GTYW2ej3oAXCwxJftW2zdY.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "id": 68,
+          "name": "Yametekudasai",
+          "name_l10n": {
+            "en": "Yametekudasai",
+            "zh": "请不要这样",
+            "zh_Hant_TW": "請不要這樣",
+            "zh_Hant_HK": "請不要這樣"
+          },
+          "url": "/oss/volt/battery_sounds/NyLPf4e7AQ9BHLzGiReImbqYQH8GtPNL5L7o8oKh.mp3"
+        }
+      },
+      {
+        "id": 2549,
+        "preview": "/oss/volt/battery_preview_images/s3tDU3bqLD6fVlEF02ekwW5l5PS5LQULW1sN2o4t.png",
+        "video": "/oss/volt/battery_videos/MubmUWSXfaa2XLovdpLPaDMgoIzQIAjsslAhac6f.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 13,
+          "url": "/oss/volt/battery_lightnings/ugHx9C5Er8W8U9EGw42kmh1nb1gCeKqfYJje9Abf.png"
+        },
+        "sound": {
+          "id": 65,
+          "name": "Wow!",
+          "name_l10n": {
+            "en": "Wow!",
+            "zh": "哇哦！",
+            "zh_Hant_TW": "哇哦！",
+            "zh_Hant_HK": "哇哦！"
+          },
+          "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+        }
+      },
+      {
+        "id": 2554,
+        "preview": "/oss/volt/battery_preview_images/XM8J4fpzapivBsXYcxlodu70oXhoGyiAEbpPRAB4.png",
+        "video": "/oss/volt/battery_videos/kpWENcnP4pg2DlYQRqRQBEVBWJOnpdJibg4Nvwrs.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 22,
+          "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+        },
+        "sound": {
+          "id": 63,
+          "name": "Suki Suki",
+          "name_l10n": {
+            "en": "Suki Suki",
+            "zh": "书记书记",
+            "zh_Hant_TW": "書記書記",
+            "zh_Hant_HK": "書記書記"
+          },
+          "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+        }
+      },
+      {
+        "id": 2552,
+        "preview": "/oss/volt/battery_preview_images/kIstSETpLgZRcuG7zsmpKukf9EGQQ5pNUXpoFGPS.png",
+        "video": "/oss/volt/battery_videos/jH2iKEOSdwZXYtQ17sWCmdpsFIgNNWoVlt5LhmyK.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "id": 63,
+          "name": "Suki Suki",
+          "name_l10n": {
+            "en": "Suki Suki",
+            "zh": "书记书记",
+            "zh_Hant_TW": "書記書記",
+            "zh_Hant_HK": "書記書記"
+          },
+          "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+        }
+      },
+      {
+        "id": 2541,
+        "preview": "/oss/volt/battery_preview_images/aXsnVP8mrAhMJrgqwZePkXqF7SQuvqgDxcSJhNPV.png",
+        "video": "/oss/volt/battery_videos/JEC0qx4QbOi1f3TB6spG1eKoMB5Syb6SDK9zfIBy.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 27,
+          "url": "/oss/volt/battery_lightnings/Mkzh2WHVRY14gdzLuLsCsksoMnK7ECZP7HUi8zRm.png"
+        },
+        "sound": {
+          "id": 65,
+          "name": "Wow!",
+          "name_l10n": {
+            "en": "Wow!",
+            "zh": "哇哦！",
+            "zh_Hant_TW": "哇哦！",
+            "zh_Hant_HK": "哇哦！"
+          },
+          "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+        }
+      },
+      {
+        "id": 2543,
+        "preview": "/oss/volt/battery_preview_images/s7iqSUUom2UbfXKxvOUfFVGAZqjyOub4fyTOLKIn.png",
+        "video": "/oss/volt/battery_videos/kfgTxc9LkBcd9kMIYqgUqLdicaGV5OF5mDrYzPDr.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 22,
+          "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+        },
+        "sound": {
+          "id": 63,
+          "name": "Suki Suki",
+          "name_l10n": {
+            "en": "Suki Suki",
+            "zh": "书记书记",
+            "zh_Hant_TW": "書記書記",
+            "zh_Hant_HK": "書記書記"
+          },
+          "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+        }
+      },
+      {
+        "id": 2551,
+        "preview": "/oss/volt/battery_preview_images/Hs3qWG5hUI82AQYNQWC0XwBYRxW4hqOvLvEHDhGI.png",
+        "video": "/oss/volt/battery_videos/tfNHY7tI8TKemL8nftxFrHuRoW7k6j6sjELmAYcz.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 22,
+          "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+        },
+        "sound": {
+          "id": 63,
+          "name": "Suki Suki",
+          "name_l10n": {
+            "en": "Suki Suki",
+            "zh": "书记书记",
+            "zh_Hant_TW": "書記書記",
+            "zh_Hant_HK": "書記書記"
+          },
+          "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+        }
+      },
+      {
+        "id": 2545,
+        "preview": "/oss/volt/battery_preview_images/9i6EIFFE5zH55hLoKYixRuuLF7IMT1nfn62uVpJA.png",
+        "video": "/oss/volt/battery_videos/htB0CSRHJWnRn49rGm5Rx1DMe7oUqxkFhKejG8mU.mp4",
+        "sound": {
+          "id": 66,
+          "name": "Panpakapan",
+          "name_l10n": {
+            "en": "Panpakapan",
+            "zh": "胖帕卡胖",
+            "zh_Hant_TW": "胖帕卡胖",
+            "zh_Hant_HK": "胖帕卡胖"
+          },
+          "url": "/oss/volt/battery_sounds/NatwKMhRj88f98BSOyqhmA7GFSdv4v69Gif0nwz6.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Nature",
+    "name_l10n": {
+      "en": "Nature",
+      "zh": "自然",
+      "zh_Hant_TW": "自然",
+      "zh_Hant_HK": "自然"
+    },
+    "icon": "/oss/volt/battery_tags_icons/29xqoLN7IcG4mUcOFdvJdfXIoTyaEprhfveUM3VH.png",
+    "charging_anims": [
+      {
+        "id": 2555,
+        "preview": "/oss/volt/battery_preview_images/3Qkp4k3cs2Oxlqf03XQovTOJyJsSbdC6nKZs4oIR.jpg",
+        "video": "/oss/volt/battery_videos/n1P4GSXHjd3UzIiUaiuVJ0GiZkKgP8Y5Vtu1Hn97.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 22,
+          "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/6yvKpxlskVersuydgCuuO98rXiUAXpK1jI6Fn90U.mp3"
+        }
+      },
+      {
+        "id": 2558,
+        "preview": "/oss/volt/battery_preview_images/JHLhhv2evtIk8RdRMgncO35OeVcH4rvrcpvrmRY7.jpg",
+        "video": "/oss/volt/battery_videos/5kMt6QSxoL7QEneJmFn9vROSRegxvLM7oUp1XtXm.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/6yvKpxlskVersuydgCuuO98rXiUAXpK1jI6Fn90U.mp3"
+        }
+      },
+      {
+        "id": 2566,
+        "preview": "/oss/volt/battery_preview_images/5OslZUVt30gG6uoK1iFWLYIOZ6YB4ZVZcdUE5AID.jpg",
+        "video": "/oss/volt/battery_videos/JYj6bDeMSjEPwEtW20mIE5rgt2DJolaM4oNJ0JYt.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ZoGk8b29HDFMBzVe80qwBDHpJz2yYJCjhSdLNMuY.mp3"
+        }
+      },
+      {
+        "id": 2557,
+        "preview": "/oss/volt/battery_preview_images/ygB99RfUI39BkFDnx1JUyXvZ8HbbqATNTDabrWoF.jpg",
+        "video": "/oss/volt/battery_videos/zOq1EYA56PvOBIs4vHnW5LVU26IVv2oKqd2LP6EE.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 26,
+          "url": "/oss/volt/battery_lightnings/XccGkvi8wBhVnit5JDOyfxkVIYC97wYyd3RJYcQn.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/Nu3OKmqKJ5Y1O5sXsCDZ6pv41bFURUL4bvtPyosx.mp3"
+        }
+      },
+      {
+        "id": 2560,
+        "preview": "/oss/volt/battery_preview_images/bLtvvTGPud0Cf4urjhVfYk3F6a9oZEHvMvMOPGHA.jpg",
+        "video": "/oss/volt/battery_videos/OZ68jGUE6T8MLxC4Dkx1QRaBGY6ZHBEYCeaTLkGn.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/NVh63kAVnJy0H3JFCqJJE2Yc8hAhxY8s9lui4Fh1.mp3"
+        }
+      },
+      {
+        "id": 2563,
+        "preview": "/oss/volt/battery_preview_images/neBseJwG9isqrXaUKyYAWimYYPKQIT5bQJDh5YQL.jpg",
+        "video": "/oss/volt/battery_videos/lHHrJh9SFnwg67f4xhJBbOWzxeV1SpWmD2XvlRKp.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 20,
+          "url": "/oss/volt/battery_lightnings/v4YlT7Euxm1QdpceUTIIOworvrNfiQ11vXOSg1NN.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ZoGk8b29HDFMBzVe80qwBDHpJz2yYJCjhSdLNMuY.mp3"
+        }
+      },
+      {
+        "id": 2569,
+        "preview": "/oss/volt/battery_preview_images/z1iemuR9lHAyizBZZSxDcFRIiUSqz5EJlPHZ3u2R.png",
+        "video": "/oss/volt/battery_videos/lhlM7y7fh7T59aNObz5Uh7q8EFZk2piMiyZiwfMb.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 7,
+          "url": "/oss/volt/battery_lightnings/28kyLJohV2ZX6UY3gKnjElfX4li5xjQLE6KD1vAN.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/sgORFCCJTp7t2VTIjFdG0a3aKaFiRIGXLcaHiRzm.mp3"
+        }
+      },
+      {
+        "id": 2562,
+        "preview": "/oss/volt/battery_preview_images/sIYts3ZbO0f87NkYPTiTvnT1R0lLqg1aOyrp4Kgc.jpg",
+        "video": "/oss/volt/battery_videos/PLsbEaGmjBpuy3rpqJOIIrCUWw5sfsQASMBuQDJK.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/00fsQgm2LDeLqwIFdV2FNsTR9LzteB8rmjuzlXjk.mp3"
+        }
+      },
+      {
+        "id": 2556,
+        "preview": "/oss/volt/battery_preview_images/vgg3BO9og0Yg58xUNgOIuyjGkGcvi50SFyjJMMa6.jpg",
+        "video": "/oss/volt/battery_videos/PBm3OEPPaduo7LRFkUVFTaz43TR5moFPnzwxE5iI.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/oZF0ik1w1boyTONLyJEQE4c8R5QSZzrtAukLQN8G.mp3"
+        }
+      },
+      {
+        "id": 2565,
+        "preview": "/oss/volt/battery_preview_images/ynPRHY1mIftAGFVuzZUYQOcCwawZnyQySr9vGEKa.jpg",
+        "video": "/oss/volt/battery_videos/wJnuzQ1uxrtyxLGiqbEMDB5U1XWZuBfIAtpR4Gxl.mov",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/00fsQgm2LDeLqwIFdV2FNsTR9LzteB8rmjuzlXjk.mp3"
+        }
+      },
+      {
+        "id": 2559,
+        "preview": "/oss/volt/battery_preview_images/Oj9T9efYNvewnwVRLQxM4IYUudvNIFa31kRMryGu.jpg",
+        "video": "/oss/volt/battery_videos/c4OngD1FfbuvIgO7oPkvlLg9FGvRHsnzgAOjWOgv.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/c3MPfN6hk5CvruqGuZnEQlAlvsgqQrgjdX4DB3hC.mp3"
+        }
+      },
+      {
+        "id": 2564,
+        "preview": "/oss/volt/battery_preview_images/YdF7DIye1sTcr9FE1Sk1O2yyK1w20pSMAbDghd0P.jpg",
+        "video": "/oss/volt/battery_videos/GGQbp0gevII4xKAJI9rSjFMU9POAnp7B4xmRPaz4.mov",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/pEzisITCBsQ6RlIR9XUkghmhDwa88bXToWM6zruw.mp3"
+        }
+      },
+      {
+        "id": 2568,
+        "preview": "/oss/volt/battery_preview_images/zPgYyEHjLPSYqcDNobjscvgBDuBTTUzMfnHGh9e4.png",
+        "video": "/oss/volt/battery_videos/9XzK2Sabt0FMOCRzQ7UmibEJirdfz1eFCeAyPp4P.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/lMMEqi3set7ZklHGdeADJrj3KrnHvG4899MdMqot.mp3"
+        }
+      },
+      {
+        "id": 2567,
+        "preview": "/oss/volt/battery_preview_images/c5fAJXSlsRDXUm1V151IaMaW3FKOAbXmjzjMaWcU.png",
+        "video": "/oss/volt/battery_videos/iqV9DkTFdthSVqdRA8GqfWiNlt9WLxnWlQ5sj6y3.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gesZSZ0Hn9GfvDM39xM2kpEq3Vs3NBJoLoQXds5c.mp3"
+        }
+      },
+      {
+        "id": 2561,
+        "preview": "/oss/volt/battery_preview_images/ogaaKyiFCnOgccKcEsym7oFOv8hKiXIKTQlDu5B9.jpg",
+        "video": "/oss/volt/battery_videos/Ptnc173D1o6SkPYsPv5yCDdf2kyOTgjnY7ZUTq3K.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 20,
+          "url": "/oss/volt/battery_lightnings/v4YlT7Euxm1QdpceUTIIOworvrNfiQ11vXOSg1NN.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/aylJguNnTS9an9mmVIPRTHXtqNSvfAwxeNImN1Wv.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Speedo",
+    "name_l10n": {
+      "en": "Speedo",
+      "zh": "速度计",
+      "zh_Hant_TW": "速度計",
+      "zh_Hant_HK": "速度計"
+    },
+    "icon": "/oss/volt/battery_tags_icons/6DSqGfhHQdFUbBZGRr4VSRqAyG3YH9RBVmbqxV60.png",
+    "charging_anims": [
+      {
+        "id": 2571,
+        "preview": "/oss/volt/battery_preview_images/DDnmgzh02B9uMnlmP8CGgCVQROmFHC740VNxlL3f.jpg",
+        "video": "/oss/volt/battery_videos/mVNAl5ddCiG0PUtwqAbHezjcTMlWFCtuPc4RMNXW.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 6,
+          "url": "/oss/volt/battery_lightnings/FI4i9iMZ8aePBrEGOCYUHDZRt1B2cHhwNJnoZ1AK.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2578,
+        "preview": "/oss/volt/battery_preview_images/PzqNvHx3d7uOHRpROmZN7b2d25XCwdts77ENEDh9.jpg",
+        "video": "/oss/volt/battery_videos/s0EMWyV9ss0ydqYLyW6rMGbGLLOkdTs5xPxGdsIl.mp4",
+        "lightning_position": "top",
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gVa8JKmYmDVaPm2YJhrB41AiSDkYAo81jwmlsmw6.mp3"
+        }
+      },
+      {
+        "id": 2576,
+        "preview": "/oss/volt/battery_preview_images/avy2hGeafFDg1BoWHl5WtvMFlDwiAMGd99aMZMvc.jpg",
+        "video": "/oss/volt/battery_videos/DxLEhfHmD7kOj7T8NPG1eY2JOsDEKSA8Hngympra.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      },
+      {
+        "id": 2574,
+        "preview": "/oss/volt/battery_preview_images/mBt6cgYXnM0RqhEgHx3BgykDyy6uqXEpS8yFz9PJ.jpg",
+        "video": "/oss/volt/battery_videos/DMphUasTVX2qHzJXbSaCAKOQqXMqYOzmAmueg6WJ.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2572,
+        "preview": "/oss/volt/battery_preview_images/MYa2p81hC8MCKMIexZu94KRGN3bXvMRhFzWkN3Gn.jpg",
+        "video": "/oss/volt/battery_videos/AVx7xIpnRHtQena6JlYSDkNQybfhM9MFy0eJphwE.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/imlWsrvZhzZ2OYWWQtgRDjB2aAXK2U2PP0ynKHgF.mp3"
+        }
+      },
+      {
+        "id": 2577,
+        "preview": "/oss/volt/battery_preview_images/Q5g5oI0Jbzsvi0yxSkuK8RpSFABCqXZG4IiF6ymH.jpg",
+        "video": "/oss/volt/battery_videos/EnC204m8pIF3If8E6XDHOaEgeVqRYNAWMrNR8V9E.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/MdF3E37teT0wzguFyLBNZQqYNj3yHiywbxNW472t.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Batteries",
+    "name_l10n": {
+      "en": "Batteries",
+      "zh": "电池",
+      "zh_Hant_TW": "電池",
+      "zh_Hant_HK": "電池"
+    },
+    "icon": "/oss/volt/battery_tags_icons/JfhkLiX6zrEWvYtvhNghm6YBQcfnX0PLVQTDKfnq.png",
+    "charging_anims": [
+      {
+        "id": 2579,
+        "preview": "/oss/volt/battery_preview_images/AYq3VvQLyJOaDRL1h2mb3sGA7Avdaq8WUqv9Pye0.jpg",
+        "video": "/oss/volt/battery_videos/AdvwlY7pNTb3tZABRfK4rIT6qtMixM5Nl1D4kCR2.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2585,
+        "preview": "/oss/volt/battery_preview_images/pEPLYIZoUvLIR9p0h407MbswilHEqVceZa3XgWHt.jpg",
+        "video": "/oss/volt/battery_videos/c5hMFloS7Vkq2Vd6M2LaA1mW1cFl7bMTBQ6F1pOx.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2588,
+        "preview": "/oss/volt/battery_preview_images/zEMfINZ6rbdCWgSaL4MIuPuQqt22CKbhJFlKIHOc.png",
+        "video": "/oss/volt/battery_videos/VtkPJl9dqEKZYZvDDY5fCXKm09NoFONtCDTY1ODZ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2583,
+        "preview": "/oss/volt/battery_preview_images/WcZu5ruiP7bBnNCpegezi3XIx30YnCafmczsJyEC.jpg",
+        "video": "/oss/volt/battery_videos/zzr2MpbbAVTxkGTb6gUkvq9qaKfozAVIJLVBKW8q.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2589,
+        "preview": "/oss/volt/battery_preview_images/yZFNG6r2skPJ5qVlWL2LglsmtUos0ybni1HpVXn1.png",
+        "video": "/oss/volt/battery_videos/PXFbmEqixTLejRUILcFcEd4YwynfiIM83YZ9pIiY.mp4",
+        "lightning_position": "top",
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2581,
+        "preview": "/oss/volt/battery_preview_images/0QCynCplN87YTo7Kho8lZpFahJWF5Xu7oYuDP3DK.jpg",
+        "video": "/oss/volt/battery_videos/keljRLQyZQd3usY6RCa69iUzWoY45EA6aLPDHcvQ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2586,
+        "preview": "/oss/volt/battery_preview_images/7LkABtv9LCM0GQqvtTEkKMHnQb8O3tAEhmuXkScx.jpg",
+        "video": "/oss/volt/battery_videos/LnzghsE9zjDTqkAYOT5UAgDvtPEotFtfLfOdxUx2.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2582,
+        "preview": "/oss/volt/battery_preview_images/VjGC2ZlXeQcEIPf13egVqToIZUNIhpu4SxhwyukT.jpg",
+        "video": "/oss/volt/battery_videos/qNAxfzdNG1PYYU1IwVuLpJEimPUqCobA3RlK8bzA.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2590,
+        "preview": "/oss/volt/battery_preview_images/JyTnzL1zbWUVfSutL1ofpxBaFbVyqFaQW1PidjXV.png",
+        "video": "/oss/volt/battery_videos/gwfs1NH6cjDbvKqK3JOD8mz6FbGBjtYPTeiEpcHd.mov",
+        "lightning_position": "top",
+        "color": {
+          "id": 2,
+          "name": "Apatite",
+          "name_l10n": {
+            "en": "Apatite",
+            "zh": "磷灰色",
+            "zh_Hant_TW": "磷灰色",
+            "zh_Hant_HK": "磷灰色"
+          },
+          "color": "#ff40d6ff",
+          "stroke": false
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2584,
+        "preview": "/oss/volt/battery_preview_images/jkQfR1cMM8Fkhti3MAAvvxLlEwqw5O5BPhenRrlM.jpg",
+        "video": "/oss/volt/battery_videos/E5MQgUKKAJDcu6nGemsyL04Gck05fz8EX8YDmAAb.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2580,
+        "preview": "/oss/volt/battery_preview_images/9sPwYwpICBkwwmbUh1B9CcclctySNUcrBMhSSNrB.jpg",
+        "video": "/oss/volt/battery_videos/ws3pLVVebPBT8MdicFDwzwJx6vSxzy6ZRXOiZQJO.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      },
+      {
+        "id": 2587,
+        "preview": "/oss/volt/battery_preview_images/1jD3CBrJTnFPejThR2rpTtvJocVVMg2Tc8l9Y6TG.jpg",
+        "video": "/oss/volt/battery_videos/vZil89BZMOmisfzlBX6ZKA934mCWAlx8EboRGjH1.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 6,
+          "name": "Midnight Blue",
+          "name_l10n": {
+            "en": "Midnight Blue",
+            "zh": "午夜蓝",
+            "zh_Hant_TW": "午夜藍",
+            "zh_Hant_HK": "午夜藍"
+          },
+          "color": "#ff3a43b9",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/hZxdclgKlYuXOZGWnWPxk7hy15KtrpwWG4CzvR16.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Progress",
+    "name_l10n": {
+      "en": "Progress",
+      "zh": "进展",
+      "zh_Hant_TW": "進展",
+      "zh_Hant_HK": "進展"
+    },
+    "icon": "/oss/volt/battery_tags_icons/MJydPoeLqVXpLlR3cUkKoee3RbK3kHBZAKOpkdxl.png",
+    "charging_anims": []
+  },
+  {
+    "id": 229,
+    "name": "Abstractions",
+    "name_l10n": {
+      "en": "Abstractions",
+      "zh": "抽象主义",
+      "zh_Hant_TW": "抽象主義",
+      "zh_Hant_HK": "抽象主義"
+    },
+    "icon": "/oss/volt/battery_tags_icons/V45si21WBtl0GR0VxPYRs8G6CnAJoD3CowbXCHac.png",
+    "charging_anims": [
+      {
+        "id": 2600,
+        "preview": "/oss/volt/battery_preview_images/gCbWWN5Riltf9Vl7F18yb1phtZ1p9g7sr7EISQ0q.jpg",
+        "video": "/oss/volt/battery_videos/4BPAqowuBpeilfCR8dVUOQgiYNd18qZDtqPJl4cU.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/uLgKraFvJM0oKu3OmVLwEtaTm7dYjjMpk4yKS9VS.mp3"
+        }
+      },
+      {
+        "id": 2617,
+        "preview": "/oss/volt/battery_preview_images/5SdR4Ua9W3q8xOqlDyEZXr0dSQb6RkOokxrFwjNQ.jpg",
+        "video": "/oss/volt/battery_videos/52YjQ7OVVCiEpDmUneWltiO7u3opIDMqmHTRFJ5j.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/Sdwyb2vv6cfHJCEAbOFhunF9YBw6kuLDtrHNKWPI.mp3"
+        }
+      },
+      {
+        "id": 2614,
+        "preview": "/oss/volt/battery_preview_images/C2g7FufeH4sCE7zAszDvX3StRy9wOXtLrctBpdin.png",
+        "video": "/oss/volt/battery_videos/Sr8XX7zawuhF7TeiD7qQDwsOlEJ3lVVPG9VIlepu.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2620,
+        "preview": "/oss/volt/battery_preview_images/NOBybvhGhBsynWzmbcv4QeKxevClrWNyCoyuUskW.png",
+        "video": "/oss/volt/battery_videos/vKk8MEfSKX3W1cXDtCIwkVmKpzx7gHd64lm5XEEo.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 10,
+          "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/HsWnwzy3rUra336nHMuEu1iVnCFvTYT9BbJ6aOdf.mp3"
+        }
+      },
+      {
+        "id": 2621,
+        "preview": "/oss/volt/battery_preview_images/7NtQjoEEZxAYbEmgtn1n4cmI1Pccf1AJ2RunNwsR.png",
+        "video": "/oss/volt/battery_videos/tyoSb7mR1md1ffCmjnXb0d965Hbo5ZNSOZ70nYvS.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 5,
+          "name": "Evening Pink",
+          "name_l10n": {
+            "en": "Evening Pink",
+            "zh": "暮粉色",
+            "zh_Hant_TW": "暮粉色",
+            "zh_Hant_HK": "暮粉色"
+          },
+          "color": "#fffe87f1",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 6,
+          "url": "/oss/volt/battery_lightnings/FI4i9iMZ8aePBrEGOCYUHDZRt1B2cHhwNJnoZ1AK.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/eZdQup64UMZY76NZdymxHge8tISvnN6VkqOIKRZ2.mp3"
+        }
+      },
+      {
+        "id": 2608,
+        "preview": "/oss/volt/battery_preview_images/JGzmDa0dez0b4unO8zAZPf9lZZNmRFVX4iJbz0nw.jpg",
+        "video": "/oss/volt/battery_videos/spXq5Xha0HVbyU0l7HRIFBSaBStoRwHF9XnYoINZ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/DOkJiAbUEU0BMVsQdTu5EkDqdfENjCejUfcTruCe.mp3"
+        }
+      },
+      {
+        "id": 2615,
+        "preview": "/oss/volt/battery_preview_images/9O0mmu0szOIs1Ixpkl4ZUL0vNY8AIe6hwUXyy3Mr.png",
+        "video": "/oss/volt/battery_videos/bB4cVdMcDZKUQYIAXrscytT6XndFtEh1kR9DMOb2.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2609,
+        "preview": "/oss/volt/battery_preview_images/b7izKv3qDKrNNTFfXLQ2oaQGZOQXVYcZEdodBasI.jpg",
+        "video": "/oss/volt/battery_videos/OtdfWvFCHbenPgftxJSrcE1ju3WlvXieqC41Cc5R.mp4",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2619,
+        "preview": "/oss/volt/battery_preview_images/B7YNJUd5U5e7FO3VyHktM5E3VK7glhylTgmVA78O.png",
+        "video": "/oss/volt/battery_videos/vKAZtUH1jWMzLozs0Q9LAEvGml7u3Sej2Ia5l83y.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2610,
+        "preview": "/oss/volt/battery_preview_images/LEfawlbaxQsp3DfesGcA6c4KqpgXCesOCbk7BMHT.jpg",
+        "video": "/oss/volt/battery_videos/iroEYhgOuFKbzybVKgB58O6inCc8PUd2okt2YVI0.mp4",
+        "lightning_position": "center",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gesZSZ0Hn9GfvDM39xM2kpEq3Vs3NBJoLoQXds5c.mp3"
+        }
+      },
+      {
+        "id": 2603,
+        "preview": "/oss/volt/battery_preview_images/yUd6w8C6pBnJKYyjr7YeOpkMV9hjEhUT4r3adhwG.jpg",
+        "video": "/oss/volt/battery_videos/hnLdDDsPZfDrf1SiwmGLEXU1KeY5Mbm0Gqt31ZiQ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 22,
+          "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/6yvKpxlskVersuydgCuuO98rXiUAXpK1jI6Fn90U.mp3"
+        }
+      },
+      {
+        "id": 2618,
+        "preview": "/oss/volt/battery_preview_images/NqqRSx2PUOyqw96wkVMy6M3RMvZWTcIO6kAtsNE4.png",
+        "video": "/oss/volt/battery_videos/3rLa7iB1YTL2KlyyaASoTn5xH97kmRSM96nTFJEF.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 12,
+          "url": "/oss/volt/battery_lightnings/R2DZ1CsZ1wQ3r48zMTXdk2uSFIJ8aCwtOmrSeNrE.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/HsWnwzy3rUra336nHMuEu1iVnCFvTYT9BbJ6aOdf.mp3"
+        }
+      },
+      {
+        "id": 2612,
+        "preview": "/oss/volt/battery_preview_images/Z45u8H6sfKuMGB0jDbaywipMCGrHPPHgIjIpV72f.jpg",
+        "video": "/oss/volt/battery_videos/2O7XFrDlL4qBiDHo6dD9ronxco2y2YhRtnDfaa4B.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 8,
+          "url": "/oss/volt/battery_lightnings/ReOc37eyeCjcQGkTsjXpOTHA6I0ZqlcWl8sbNyDk.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      },
+      {
+        "id": 2607,
+        "preview": "/oss/volt/battery_preview_images/zmLD1cjPHLfpiJPLx5AoxkxtA2xnMIm8tvZsnfYW.jpg",
+        "video": "/oss/volt/battery_videos/0PLwUIrqBfPbpbNCpFfugp33rAcLVqaP2OvdI0jD.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/FbKIx4yJLOEjtEW94ZdFfuHaO2jnzCYHk6sHtadv.mp3"
+        }
+      },
+      {
+        "id": 2616,
+        "preview": "/oss/volt/battery_preview_images/h9EBThbgUFt0Tw9IwUvhJhFhnFZssf1cqrWZkVE5.jpg",
+        "video": "/oss/volt/battery_videos/3AYuaCx9BtHOgv3Lzx7jP1mtxfsOkdbVunCfEutU.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 19,
+          "url": "/oss/volt/battery_lightnings/laGeYLf5LEeayqP5pZROEKCxs67YdS2duEmztgSp.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/sgORFCCJTp7t2VTIjFdG0a3aKaFiRIGXLcaHiRzm.mp3"
+        }
+      },
+      {
+        "id": 2606,
+        "preview": "/oss/volt/battery_preview_images/qDdqXBnnUXNG9j9ivIrragXCmEFzUkKMLYM0qB6P.jpg",
+        "video": "/oss/volt/battery_videos/EfugSDmPrLURs7CLSF9L7iPkeGhqDNCQL3Sczwch.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      },
+      {
+        "id": 2622,
+        "preview": "/oss/volt/battery_preview_images/oGHCtyQ3B3I5oSTsVauqW5uzvEWTOwOa0W00qMII.png",
+        "video": "/oss/volt/battery_videos/gEWkSoCEs4CMvtmUCTpy0FPy0duzVoYAQE5QdKyb.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/DOkJiAbUEU0BMVsQdTu5EkDqdfENjCejUfcTruCe.mp3"
+        }
+      },
+      {
+        "id": 2602,
+        "preview": "/oss/volt/battery_preview_images/fMDp2YUOLRzKJzpHspodtDRUSSx4GcgYncE4jTm9.jpg",
+        "video": "/oss/volt/battery_videos/jHCn9LoSkV018RjfSY9Vv1vrBOxwO9h9edBzKYEH.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 29,
+          "url": "/oss/volt/battery_lightnings/NitJsqZ9VwAPerxMfXJ3OFIIAou58hLi86BNz96Z.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/DOkJiAbUEU0BMVsQdTu5EkDqdfENjCejUfcTruCe.mp3"
+        }
+      },
+      {
+        "id": 2605,
+        "preview": "/oss/volt/battery_preview_images/aTHabaNCZNjxVLrONtxBefOiGTj2d4cT8VJUWMR2.jpg",
+        "video": "/oss/volt/battery_videos/de81Ra3folxISp5TqyZJNeAeGnkArzSsGTuK9JOv.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 5,
+          "name": "Evening Pink",
+          "name_l10n": {
+            "en": "Evening Pink",
+            "zh": "暮粉色",
+            "zh_Hant_TW": "暮粉色",
+            "zh_Hant_HK": "暮粉色"
+          },
+          "color": "#fffe87f1",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 24,
+          "url": "/oss/volt/battery_lightnings/G4f5MVUIU0MH2ygA91S4c64YXjSb9EZtXZ8yl6Gx.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gesZSZ0Hn9GfvDM39xM2kpEq3Vs3NBJoLoQXds5c.mp3"
+        }
+      },
+      {
+        "id": 2601,
+        "preview": "/oss/volt/battery_preview_images/0DRqiITgdI2MYMyAr28M1F2GFdeONtbEHrMkOXmg.jpg",
+        "video": "/oss/volt/battery_videos/UxfudoGzO8BvIf6lmOpEyz2pzTTHVPDXjvPDFGQ1.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 5,
+          "name": "Evening Pink",
+          "name_l10n": {
+            "en": "Evening Pink",
+            "zh": "暮粉色",
+            "zh_Hant_TW": "暮粉色",
+            "zh_Hant_HK": "暮粉色"
+          },
+          "color": "#fffe87f1",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 27,
+          "url": "/oss/volt/battery_lightnings/Mkzh2WHVRY14gdzLuLsCsksoMnK7ECZP7HUi8zRm.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/Nu3OKmqKJ5Y1O5sXsCDZ6pv41bFURUL4bvtPyosx.mp3"
+        }
+      },
+      {
+        "id": 2604,
+        "preview": "/oss/volt/battery_preview_images/dCKXclRsCJWajaliS9Q2StgZoaCuypluMsQLNNMt.jpg",
+        "video": "/oss/volt/battery_videos/nIcw3SZ4QMJW86qqejGPmh9dgMGkNtqyz1DMK478.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 20,
+          "url": "/oss/volt/battery_lightnings/v4YlT7Euxm1QdpceUTIIOworvrNfiQ11vXOSg1NN.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Energy",
+    "name_l10n": {
+      "en": "Energy",
+      "zh": "能量",
+      "zh_Hant_TW": "能量",
+      "zh_Hant_HK": "能量"
+    },
+    "icon": "/oss/volt/battery_tags_icons/PtQlMLIVOmX16IFX3oUmIqxqnTsgXMdeeVoSv5b5.png",
+    "charging_anims": [
+      {
+        "id": 2624,
+        "preview": "/oss/volt/battery_preview_images/B6VO4vKRLrU2oLneMfxlMOxlNDOAQbBznnDnf5rK.png",
+        "video": "/oss/volt/battery_videos/uf1uLTWx5UM3JPhlLgoiJrvcDjyoAxHKWsicxnqB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2631,
+        "preview": "/oss/volt/battery_preview_images/jTnpBsyjr1MeoXZp2QuNDdhcLKa9y4tVSth0Yr8J.jpg",
+        "video": "/oss/volt/battery_videos/cJPmszZhU3hICwyfCQf4y9WVe3yqv8d6bhNE0oBj.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 19,
+          "url": "/oss/volt/battery_lightnings/laGeYLf5LEeayqP5pZROEKCxs67YdS2duEmztgSp.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gG2I9rNsZtvHadFECanWw8frL5dTrT6C9AklpkJ5.mp3"
+        }
+      },
+      {
+        "id": 2635,
+        "preview": "/oss/volt/battery_preview_images/52WqSjAPJtmcfnvDHYakdSdNLFvdV0gK8jWFz3gu.jpg",
+        "video": "/oss/volt/battery_videos/JIHIfyWa32Mw7ubVwb1WZrCdOvR3Iu7lp6t5VLDA.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/gesZSZ0Hn9GfvDM39xM2kpEq3Vs3NBJoLoQXds5c.mp3"
+        }
+      },
+      {
+        "id": 2639,
+        "preview": "/oss/volt/battery_preview_images/vD8BuFgDMvHh8ZUhlTMlT5CsFBnYf0FQYkF05QxR.jpg",
+        "video": "/oss/volt/battery_videos/xKSZDP2AdPcsoE4crXfXM9oBc76nNV11fkJ7MmRH.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2646,
+        "preview": "/oss/volt/battery_preview_images/lRtiWwaxDKZFA8A7deIBopUOIIOTO11svDLQDjGI.jpg",
+        "video": "/oss/volt/battery_videos/bjsb6SuWG9zUUq2zj9Y0LOmjwxcbhP4JWNAegy87.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2634,
+        "preview": "/oss/volt/battery_preview_images/b63a9nr3JDP5mZcO7s2y6p1Wwry3c7vtPvNAwQoR.jpg",
+        "video": "/oss/volt/battery_videos/MP9KmBnf9y2fsW4e4VapCCdiREfAb2MV99j8g27E.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2644,
+        "preview": "/oss/volt/battery_preview_images/KHPf4tGMqEkT5BUa1LJhzz3ACD10i93t59IIBTuf.jpg",
+        "video": "/oss/volt/battery_videos/XKCfOc2FCgMIgEtU1FaI1CzhCmNrlGveuhNWuPJS.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2647,
+        "preview": "/oss/volt/battery_preview_images/HwXUyknz7Zjsj72B4w0dbYFUuMoTXZGKMVGGiKpb.jpg",
+        "video": "/oss/volt/battery_videos/bQ42sLlL5SZfsAg2vl2YMQEMg3Zp4leTzoumxtPB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2645,
+        "preview": "/oss/volt/battery_preview_images/MXAMFxLtI0AhZnKlLvWoT0CL5LaGOz9QLyftKJxg.jpg",
+        "video": "/oss/volt/battery_videos/Ovp6YokVwy46Zm9dYqYlc7IpmPpEh7OMG0fmBneN.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2643,
+        "preview": "/oss/volt/battery_preview_images/tIAiUrZrg5stgp4G8PmvwJLiK8pHbH7vb61SdJ9S.jpg",
+        "video": "/oss/volt/battery_videos/KhaG0pskAgtmc3uRpncsnMPkgXmmRjPCs0lDNO5i.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2626,
+        "preview": "/oss/volt/battery_preview_images/TFuWkmTuuUgmQIQWjzR7HYMSPJKiKTWi26rVF9zn.jpg",
+        "video": "/oss/volt/battery_videos/9HCNsOzBMQWTkbbNHRSmP5bhNCepxpNmwYDEQiit.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 6,
+          "url": "/oss/volt/battery_lightnings/FI4i9iMZ8aePBrEGOCYUHDZRt1B2cHhwNJnoZ1AK.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/3Z25sMwGkjgEiVMUHWSwmuPTJo1bZeviojfkKBLl.mp3"
+        }
+      },
+      {
+        "id": 2651,
+        "preview": "/oss/volt/battery_preview_images/k1QeITNsG90QO75IfjFOp1Rqdrw1csuU3QXAoQMc.png",
+        "video": "/oss/volt/battery_videos/8hplN0J3rJmYbTTt8T7v3Uy0rhqYvRNF3f0MbICD.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2653,
+        "preview": "/oss/volt/battery_preview_images/LSVcwxeiQa7RjF37PRAAfsWqclIAya2NZw2e01uI.png",
+        "video": "/oss/volt/battery_videos/x2dqakc3Gps6oA5uYjcDs3rd5p7P8kk6zHErn3J9.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2650,
+        "preview": "/oss/volt/battery_preview_images/WdkMWbpX4EzkZYf2zLehShjzhmTbtBrLtmeF83aV.jpg",
+        "video": "/oss/volt/battery_videos/ikofYOb0CyftqWN69E7Q7qcBxOqF2drncvEBhGdD.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2625,
+        "preview": "/oss/volt/battery_preview_images/jbsKFmwXefZk9AZ9WpI3VtKXdIMvSXt2VRff8Dvx.jpg",
+        "video": "/oss/volt/battery_videos/6itiE9XuapFHrStkuT9XWhDfsw95XffNWDVVrwse.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2632,
+        "preview": "/oss/volt/battery_preview_images/AdIJDieafWA96zybC8S59uRm52Cbfv7TU6FMNaHr.jpg",
+        "video": "/oss/volt/battery_videos/fEofJexV7p6hq2mdEwKmUETRhkKUcllfX8pMDWXc.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 19,
+          "url": "/oss/volt/battery_lightnings/laGeYLf5LEeayqP5pZROEKCxs67YdS2duEmztgSp.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2640,
+        "preview": "/oss/volt/battery_preview_images/rn5JN4K1xVe79PnzmuS4rMnoE9D2fMz37yzFs4jK.jpg",
+        "video": "/oss/volt/battery_videos/DqTVUsu3790MaqooWc1UfQg0m0IMFMCKq3NtstbZ.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 4,
+          "name": "Night Black",
+          "name_l10n": {
+            "en": "Night Black",
+            "zh": "夜幕黑",
+            "zh_Hant_TW": "夜幕黑",
+            "zh_Hant_HK": "夜幕黑"
+          },
+          "color": "#ff000000",
+          "stroke": true
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/TZs5qNqopgUHv2MOnIVeRohRwRAs5NgiUglhr1rT.mp3"
+        }
+      },
+      {
+        "id": 2633,
+        "preview": "/oss/volt/battery_preview_images/DjTdS0HljRtUvtRYoMrf1SkGlXJwYCyLsMzo6vI5.jpg",
+        "video": "/oss/volt/battery_videos/FqMP4DbPyOU6xB1wBwDz4XFhmE5ZHmTpTD4lYtqA.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 17,
+          "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2649,
+        "preview": "/oss/volt/battery_preview_images/CvfRDTlmBc9N3CtVjTrlB6GgPvgoJ75H7PfANBUD.jpg",
+        "video": "/oss/volt/battery_videos/UmvDceeOWZeCApblwN4UMia1mJ86r99FJN3UxjAx.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2638,
+        "preview": "/oss/volt/battery_preview_images/JXKKadFJ8UO1GMsGrWXJNs9OWAedBqOFH7GPo4h9.jpg",
+        "video": "/oss/volt/battery_videos/bGhhMtDeUngCrWgKCHdayR06WnafyInDo9nBHQb4.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 27,
+          "url": "/oss/volt/battery_lightnings/Mkzh2WHVRY14gdzLuLsCsksoMnK7ECZP7HUi8zRm.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2642,
+        "preview": "/oss/volt/battery_preview_images/jUCSoY9GmdrMWCD2ot85b8b3WGGvVpvbxXh1Kfpw.png",
+        "video": "/oss/volt/battery_videos/HOuGXU7smGONDCcAJhyYBKofQrykK3uPqeZfWJxh.mp4",
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2641,
+        "preview": "/oss/volt/battery_preview_images/wRHJcf5tlj9VqwlAu1tJ4mxFmT57F0pVCmN40ARs.png",
+        "video": "/oss/volt/battery_videos/kuAEIO7FtnoU19HpsNaJAQtMoZyvEh9nm1frJ85q.mp4",
+        "lightning_position": "top",
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2627,
+        "preview": "/oss/volt/battery_preview_images/j7B1ZQUqvzFGC0c8LxKAogzBmkzm5KnypXMcXZrd.jpg",
+        "video": "/oss/volt/battery_videos/nj6ZWZvFbbj1G9S8HlMkaUagQZxQd6yHyMpd3ytg.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 18,
+          "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2630,
+        "preview": "/oss/volt/battery_preview_images/g7UomYkIheDcfM7fwfbxIbqjnZjzcE6WqFgdUqrU.jpg",
+        "video": "/oss/volt/battery_videos/xhTBaH9FkSMzEgb2edUb1CtJDl4ivwRAhQwvRfJK.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/e4klqCISJIVcrbUJblQbebs4ilG6QLvAQT9DRcWk.mp3"
+        }
+      },
+      {
+        "id": 2637,
+        "preview": "/oss/volt/battery_preview_images/ENAwAfYdjJHFXMyevP3RdvQxDPoYK42da3ucm2NV.jpg",
+        "video": "/oss/volt/battery_videos/jYeYIxNL0AbCRpCKndk8blHMzJ2xVex9i6NfswkB.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 4,
+          "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/BN64cPB2nJiLbHNESTOLD8wxODgBj9dx8dVceNZB.mp3"
+        }
+      },
+      {
+        "id": 2648,
+        "preview": "/oss/volt/battery_preview_images/Kbvtprc7krVPoezUV55fDHPBkFbEJM1GbHp7wfzN.jpg",
+        "video": "/oss/volt/battery_videos/h7dueX6N2d2TWmav4MdoPIdOyforzgVvWEJ1oeTc.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 16,
+          "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/ntMx81jkgU0lKh5Nwt06efmOYeXR869iu9afxakM.mp3"
+        }
+      },
+      {
+        "id": 2636,
+        "preview": "/oss/volt/battery_preview_images/4cA9TsJqcbg7ML6uwb3je5MjB7AiVkyFgkKNfAVl.jpg",
+        "video": "/oss/volt/battery_videos/Agt5YsMeWPpmGR5AsJ7wMdCkCKPayqfLin2UewOt.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 1,
+          "name": "Citrine",
+          "name_l10n": {
+            "en": "Citrine",
+            "zh": "水晶黄",
+            "zh_Hant_TW": "水晶黃",
+            "zh_Hant_HK": "水晶黃"
+          },
+          "color": "#ffffb200",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/p7D2Mc3TG5uWCSVgkv0zyezXmdD5ZlEZ2liLp0VB.mp3"
+        }
+      },
+      {
+        "id": 2628,
+        "preview": "/oss/volt/battery_preview_images/vhoFvRKfIXjL6UtIyoE8xJrsiGp9oVndi4taGiG5.jpg",
+        "video": "/oss/volt/battery_videos/GKDDzkawqHt6kUW5h57rsadsFqOfIMGI167jOQ0s.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 20,
+          "url": "/oss/volt/battery_lightnings/v4YlT7Euxm1QdpceUTIIOworvrNfiQ11vXOSg1NN.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2652,
+        "preview": "/oss/volt/battery_preview_images/Et72yWKGpqUkITqwccXjXjqo3atShNVGQGHoyUK3.png",
+        "video": "/oss/volt/battery_videos/ZIpfwjbLCOEOGoKpLKmwi4DRa3KT3cmm0noStIZL.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 25,
+          "url": "/oss/volt/battery_lightnings/3O7New10A80wHVBX98AYtULE8sccTfQoOqFmn5oA.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/byK3PkpllP4HcekXMTcx4OhPbQuBCvV9SGNZYPYI.mp3"
+        }
+      },
+      {
+        "id": 2629,
+        "preview": "/oss/volt/battery_preview_images/UqubEuZg56XTu3MUoSdLWtWxUFsqcCCYkAUjn3tR.jpg",
+        "video": "/oss/volt/battery_videos/TSMIQhmafBJHLpvi3r2arqu8jwC00p5YCIq2DwAj.mp4",
+        "lightning_position": "top",
+        "color": {
+          "id": 3,
+          "name": "Ice White",
+          "name_l10n": {
+            "en": "Ice White",
+            "zh": "雪白",
+            "zh_Hant_TW": "雪白",
+            "zh_Hant_HK": "雪白"
+          },
+          "color": "#ffffffff",
+          "stroke": false
+        },
+        "lightning": {
+          "id": 5,
+          "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+        },
+        "sound": {
+          "url": "/oss/volt/battery_sounds/CA8Esa2C4RXl51S1jhYW5ZYqpisI7GIiwA0aXAQS.mp3"
+        }
+      }
+    ]
+  }
+]

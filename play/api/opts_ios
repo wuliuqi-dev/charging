@@ -1,0 +1,23 @@
+{
+  "developer": null,
+  "status": 1,
+  "review": {
+    "enabled": false
+  },
+  "top_up_products": [
+    {
+      "id": "1",
+      "name": "CONTINUE TO FREE TRIAL",
+      "slogan": "Free for 3 days，then US$2.99/month",
+      "sku": "subs_2.m.3_7"
+    },
+    {
+      "id": "2",
+      "name": "CONTINUE TO FREE TRIAL",
+      "slogan": "Free for 3 days，then US$12.99/year",
+      "badge": "SAVE 40%",
+      "sku": "subs_2.y.3_14",
+      "is_default": true
+    }
+  ]
+}

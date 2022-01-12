@@ -1,0 +1,558 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "name": "Citrine",
+      "name_l10n": {
+        "en": "Citrine",
+        "zh": "水晶黄",
+        "zh_Hant_TW": "水晶黃",
+        "zh_Hant_HK": "水晶黃"
+      },
+      "color": "#ffffb200",
+      "stroke": false
+    },
+    {
+      "id": 3,
+      "name": "Ice White",
+      "name_l10n": {
+        "en": "Ice White",
+        "zh": "雪白",
+        "zh_Hant_TW": "雪白",
+        "zh_Hant_HK": "雪白"
+      },
+      "color": "#ffffffff",
+      "stroke": false
+    },
+    {
+      "id": 4,
+      "name": "Night Black",
+      "name_l10n": {
+        "en": "Night Black",
+        "zh": "夜幕黑",
+        "zh_Hant_TW": "夜幕黑",
+        "zh_Hant_HK": "夜幕黑"
+      },
+      "color": "#ff000000",
+      "stroke": true
+    },
+    {
+      "id": 5,
+      "name": "Evening Pink",
+      "name_l10n": {
+        "en": "Evening Pink",
+        "zh": "暮粉色",
+        "zh_Hant_TW": "暮粉色",
+        "zh_Hant_HK": "暮粉色"
+      },
+      "color": "#fffe87f1",
+      "stroke": false
+    },
+    {
+      "id": 6,
+      "name": "Midnight Blue",
+      "name_l10n": {
+        "en": "Midnight Blue",
+        "zh": "午夜蓝",
+        "zh_Hant_TW": "午夜藍",
+        "zh_Hant_HK": "午夜藍"
+      },
+      "color": "#ff3a43b9",
+      "stroke": false
+    },
+    {
+      "id": 2,
+      "name": "Apatite",
+      "name_l10n": {
+        "en": "Apatite",
+        "zh": "磷灰色",
+        "zh_Hant_TW": "磷灰色",
+        "zh_Hant_HK": "磷灰色"
+      },
+      "color": "#ff40d6ff",
+      "stroke": false
+    }
+  ],
+  "lightnings": [
+    {
+      "id": 5,
+      "url": "/oss/volt/battery_lightnings/tAvEJvAo0JqXc2IX1ZPmceUCmoGa4lXgMoYB9NFS.png"
+    },
+    {
+      "id": 4,
+      "url": "/oss/volt/battery_lightnings/NqB9HjZsfu4KX8ORHA9xiBSeF383vPOLJiYbliX2.png"
+    },
+    {
+      "id": 6,
+      "url": "/oss/volt/battery_lightnings/FI4i9iMZ8aePBrEGOCYUHDZRt1B2cHhwNJnoZ1AK.png"
+    },
+    {
+      "id": 7,
+      "url": "/oss/volt/battery_lightnings/28kyLJohV2ZX6UY3gKnjElfX4li5xjQLE6KD1vAN.png"
+    },
+    {
+      "id": 8,
+      "url": "/oss/volt/battery_lightnings/ReOc37eyeCjcQGkTsjXpOTHA6I0ZqlcWl8sbNyDk.png"
+    },
+    {
+      "id": 9,
+      "url": "/oss/volt/battery_lightnings/l6jv3vMeTmu9sSDw3FoUDjBtpXFNXUeO0PF90n4F.png"
+    },
+    {
+      "id": 10,
+      "url": "/oss/volt/battery_lightnings/Epk7TZ97nx2pRQ8XiRvKZ7RyBj5klRr8Vrd0yXsY.png"
+    },
+    {
+      "id": 11,
+      "url": "/oss/volt/battery_lightnings/5j2sXwJvPoTm2uOpCBxrWGWecARMifbJ8WSsyS3c.png"
+    },
+    {
+      "id": 12,
+      "url": "/oss/volt/battery_lightnings/R2DZ1CsZ1wQ3r48zMTXdk2uSFIJ8aCwtOmrSeNrE.png"
+    },
+    {
+      "id": 13,
+      "url": "/oss/volt/battery_lightnings/ugHx9C5Er8W8U9EGw42kmh1nb1gCeKqfYJje9Abf.png"
+    },
+    {
+      "id": 14,
+      "url": "/oss/volt/battery_lightnings/oY3lyQQjkiclVr3DGaco897iVWYHLQMB0atq3xtn.png"
+    },
+    {
+      "id": 15,
+      "url": "/oss/volt/battery_lightnings/y4Kljn6IimjDCHOk3FCn9ywzx3OtjYqhzmjz0fts.png"
+    },
+    {
+      "id": 16,
+      "url": "/oss/volt/battery_lightnings/j6HqZbFMBNy5FtlTsIF6rQyTWsBv2TyZI0dCJoBB.png"
+    },
+    {
+      "id": 17,
+      "url": "/oss/volt/battery_lightnings/b2GF2HoZ9HSMa3MlznbzMRStd7Q5k9qHZsgHeMEA.png"
+    },
+    {
+      "id": 18,
+      "url": "/oss/volt/battery_lightnings/BanVsOUvBjwE4yhhdQ7DVoQFcim4F8J3AbZQ9Ep5.png"
+    },
+    {
+      "id": 19,
+      "url": "/oss/volt/battery_lightnings/laGeYLf5LEeayqP5pZROEKCxs67YdS2duEmztgSp.png"
+    },
+    {
+      "id": 20,
+      "url": "/oss/volt/battery_lightnings/v4YlT7Euxm1QdpceUTIIOworvrNfiQ11vXOSg1NN.png"
+    },
+    {
+      "id": 21,
+      "url": "/oss/volt/battery_lightnings/1W31NklhSsGX6k8Bd8nDPJhDootP6cbUFjtlrzCj.png"
+    },
+    {
+      "id": 22,
+      "url": "/oss/volt/battery_lightnings/x8Ukf1fjv42n80bth6HhEHnmac6glpbb2v1fMVcC.png"
+    },
+    {
+      "id": 23,
+      "url": "/oss/volt/battery_lightnings/yj5OlIuFxWgTdDAM8c5An1DMPjU2Lyy1U6D8ax0j.png"
+    },
+    {
+      "id": 24,
+      "url": "/oss/volt/battery_lightnings/G4f5MVUIU0MH2ygA91S4c64YXjSb9EZtXZ8yl6Gx.png"
+    },
+    {
+      "id": 25,
+      "url": "/oss/volt/battery_lightnings/3O7New10A80wHVBX98AYtULE8sccTfQoOqFmn5oA.png"
+    },
+    {
+      "id": 26,
+      "url": "/oss/volt/battery_lightnings/XccGkvi8wBhVnit5JDOyfxkVIYC97wYyd3RJYcQn.png"
+    },
+    {
+      "id": 27,
+      "url": "/oss/volt/battery_lightnings/Mkzh2WHVRY14gdzLuLsCsksoMnK7ECZP7HUi8zRm.png"
+    },
+    {
+      "id": 28,
+      "url": "/oss/volt/battery_lightnings/b7kfxBXd1cMdnlXBQJI9FH2fh9Sv4p6EcQMndPtp.png"
+    },
+    {
+      "id": 29,
+      "url": "/oss/volt/battery_lightnings/NitJsqZ9VwAPerxMfXJ3OFIIAou58hLi86BNz96Z.png"
+    }
+  ],
+  "sounds": [
+    {
+      "id": 34,
+      "name": "Ahaha!",
+      "name_l10n": {
+        "en": "Ahaha!",
+        "zh": "哈哈!",
+        "zh_Hant_TW": "哈哈!",
+        "zh_Hant_HK": "哈哈!"
+      },
+      "url": "/oss/volt/battery_sounds/xQi3EDJ3nZXPtt32vK8mh7XIb2dgy47oCRcr1PJV.mp3"
+    },
+    {
+      "id": 35,
+      "name": "Demon",
+      "name_l10n": {
+        "en": "Demon",
+        "zh": "恶魔",
+        "zh_Hant_TW": "惡魔",
+        "zh_Hant_HK": "惡魔"
+      },
+      "url": "/oss/volt/battery_sounds/SVYlvbBhoWLOrnSUWsltSiOHB31SvrSYcxusoytv.mp3"
+    },
+    {
+      "id": 36,
+      "name": "Glass Smash",
+      "name_l10n": {
+        "en": "Glass Smash",
+        "zh": "玻璃打碎",
+        "zh_Hant_TW": "玻璃打碎",
+        "zh_Hant_HK": "玻璃打碎"
+      },
+      "url": "/oss/volt/battery_sounds/9elwGey3i3OEm3EIiqEM4Pz25cKakk8kzKfbAkRz.mp3"
+    },
+    {
+      "id": 37,
+      "name": "Hit",
+      "name_l10n": {
+        "en": "Hit",
+        "zh": "击打",
+        "zh_Hant_TW": "擊打",
+        "zh_Hant_HK": "擊打"
+      },
+      "url": "/oss/volt/battery_sounds/b2MT2ViNBtu7N42oulJ1WgsL8a6pP6vIo76wKkcf.mp3"
+    },
+    {
+      "id": 38,
+      "name": "Horror",
+      "name_l10n": {
+        "en": "Horror",
+        "zh": "恐怖",
+        "zh_Hant_TW": "恐怖",
+        "zh_Hant_HK": "恐怖"
+      },
+      "url": "/oss/volt/battery_sounds/4LiAEYXmpZOIsOFnj1zeCWKvmu9w7oNhVCxJRJUx.mp3"
+    },
+    {
+      "id": 39,
+      "name": "Metal",
+      "name_l10n": {
+        "en": "Metal",
+        "zh": "金属",
+        "zh_Hant_TW": "金屬",
+        "zh_Hant_HK": "金屬"
+      },
+      "url": "/oss/volt/battery_sounds/Z33u5PPM8vHmOSwDCK1ZlETSMo3J9Dk9ZcScAQsK.mp3"
+    },
+    {
+      "id": 40,
+      "name": "Mission Complete",
+      "name_l10n": {
+        "en": "Mission Complete",
+        "zh": "任务完成",
+        "zh_Hant_TW": "任務完成",
+        "zh_Hant_HK": "任務完成"
+      },
+      "url": "/oss/volt/battery_sounds/eaE7IlNTydQLkaVOGXCSwrIddU63SO7bpgBeQ8pA.mp3"
+    },
+    {
+      "id": 41,
+      "name": "Ninja",
+      "name_l10n": {
+        "en": "Ninja",
+        "zh": "忍者",
+        "zh_Hant_TW": "忍者",
+        "zh_Hant_HK": "忍者"
+      },
+      "url": "/oss/volt/battery_sounds/PW8CMAx32L6o3THJJKGA0HwQujdu62M0x4N37aFf.mp3"
+    },
+    {
+      "id": 42,
+      "name": "Ogre Laugh",
+      "name_l10n": {
+        "en": "Ogre Laugh",
+        "zh": "Ogre的笑",
+        "zh_Hant_TW": "Ogre的笑",
+        "zh_Hant_HK": "Ogre的笑"
+      },
+      "url": "/oss/volt/battery_sounds/YUa5ImBgHVvV8Ao69fpZsgEZpNQVWraq52Egi4wK.mp3"
+    },
+    {
+      "id": 43,
+      "name": "Ooh La La",
+      "name_l10n": {
+        "en": "Ooh La La",
+        "zh": "哦啦啦",
+        "zh_Hant_TW": "哦啦啦",
+        "zh_Hant_HK": "哦啦啦"
+      },
+      "url": "/oss/volt/battery_sounds/iwpHF7yPdD1XaTlFCRq9bTgxB2Lt33UQaywOLnXC.mp3"
+    },
+    {
+      "id": 44,
+      "name": "Ping Pong",
+      "name_l10n": {
+        "en": "Ping Pong",
+        "zh": "乒乓",
+        "zh_Hant_TW": "乒乓",
+        "zh_Hant_HK": "乒乓"
+      },
+      "url": "/oss/volt/battery_sounds/c6YmwqFU1cdX32OeIretkyxoRqdzY6bI027flxJF.mp3"
+    },
+    {
+      "id": 45,
+      "name": "Positive",
+      "name_l10n": {
+        "en": "Positive",
+        "zh": "积极的",
+        "zh_Hant_TW": "積極的",
+        "zh_Hant_HK": "積極的"
+      },
+      "url": "/oss/volt/battery_sounds/N8tUDWAyzwd5mEpVU05RhmBoit6EA13cUyMbefAJ.mp3"
+    },
+    {
+      "id": 46,
+      "name": "Power",
+      "name_l10n": {
+        "en": "Power",
+        "zh": "力量",
+        "zh_Hant_TW": "力量",
+        "zh_Hant_HK": "力量"
+      },
+      "url": "/oss/volt/battery_sounds/XqJni1D8iI2RHEeRsrLXjY71B3xxF4JJKlZtt8e3.mp3"
+    },
+    {
+      "id": 47,
+      "name": "Self-destruction",
+      "name_l10n": {
+        "en": "Self-destruction",
+        "zh": "自我毁灭",
+        "zh_Hant_TW": "自我毀滅",
+        "zh_Hant_HK": "自我毀滅"
+      },
+      "url": "/oss/volt/battery_sounds/RNVOdLX70IkezQB4LmPgICjhOHfirLXNaouOj8kj.mp3"
+    },
+    {
+      "id": 48,
+      "name": "Snore",
+      "name_l10n": {
+        "en": "Snore",
+        "zh": "打鼾",
+        "zh_Hant_TW": "打鼾",
+        "zh_Hant_HK": "打鼾"
+      },
+      "url": "/oss/volt/battery_sounds/4NXSB7IDh9GPg02vKoSItdArHOC0CuhpJFx5VE4b.mp3"
+    },
+    {
+      "id": 49,
+      "name": "Spooky Ghost",
+      "name_l10n": {
+        "en": "Spooky Ghost",
+        "zh": "令人毛骨悚然的鬼",
+        "zh_Hant_TW": "令人毛骨悚然的鬼",
+        "zh_Hant_HK": "令人毛骨悚然的鬼"
+      },
+      "url": "/oss/volt/battery_sounds/VWm1kDhGUD9UUwVAkBvzawGfWqdgdUns4WBURS3U.mp3"
+    },
+    {
+      "id": 50,
+      "name": "Stinger",
+      "name_l10n": {
+        "en": "Stinger",
+        "zh": "喜欢讽刺别人的人",
+        "zh_Hant_TW": "喜歡諷刺別人的人",
+        "zh_Hant_HK": "喜歡諷刺別人的人"
+      },
+      "url": "/oss/volt/battery_sounds/3FT4h8F1JXBkuJlz1qbU7NJQTxsaB2yhQC5SOfPb.mp3"
+    },
+    {
+      "id": 51,
+      "name": "Umm, Good",
+      "name_l10n": {
+        "en": "Umm, Good",
+        "zh": "嗯，很好",
+        "zh_Hant_TW": "嗯，很好",
+        "zh_Hant_HK": "嗯，很好"
+      },
+      "url": "/oss/volt/battery_sounds/smzS5iPGksFtAW9Ghh01GaH1BBqm8k2vl2yDGxWp.mp3"
+    },
+    {
+      "id": 63,
+      "name": "Suki Suki",
+      "name_l10n": {
+        "en": "Suki Suki",
+        "zh": "书记书记",
+        "zh_Hant_TW": "書記書記",
+        "zh_Hant_HK": "書記書記"
+      },
+      "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+    },
+    {
+      "id": 64,
+      "name": "Hehe",
+      "name_l10n": {
+        "en": "Hehe",
+        "zh": "呵呵",
+        "zh_Hant_TW": "呵呵",
+        "zh_Hant_HK": "呵呵"
+      },
+      "url": "/oss/volt/battery_sounds/3z29Rs04WwG5vrPZumMszyHksXGPwLx97oRTYCWt.mp3"
+    },
+    {
+      "id": 65,
+      "name": "Wow!",
+      "name_l10n": {
+        "en": "Wow!",
+        "zh": "哇哦！",
+        "zh_Hant_TW": "哇哦！",
+        "zh_Hant_HK": "哇哦！"
+      },
+      "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+    },
+    {
+      "id": 66,
+      "name": "Panpakapan",
+      "name_l10n": {
+        "en": "Panpakapan",
+        "zh": "胖帕卡胖",
+        "zh_Hant_TW": "胖帕卡胖",
+        "zh_Hant_HK": "胖帕卡胖"
+      },
+      "url": "/oss/volt/battery_sounds/NatwKMhRj88f98BSOyqhmA7GFSdv4v69Gif0nwz6.mp3"
+    },
+    {
+      "id": 67,
+      "name": "Senpai",
+      "name_l10n": {
+        "en": "Senpai",
+        "zh": "前辈",
+        "zh_Hant_TW": "前輩",
+        "zh_Hant_HK": "前輩"
+      },
+      "url": "/oss/volt/battery_sounds/sVH0pUUWT8DJdyVPIki8sekoj8ZNG0njpPIpnOLZ.mp3"
+    },
+    {
+      "id": 68,
+      "name": "Yametekudasai",
+      "name_l10n": {
+        "en": "Yametekudasai",
+        "zh": "请不要这样",
+        "zh_Hant_TW": "請不要這樣",
+        "zh_Hant_HK": "請不要這樣"
+      },
+      "url": "/oss/volt/battery_sounds/NyLPf4e7AQ9BHLzGiReImbqYQH8GtPNL5L7o8oKh.mp3"
+    },
+    {
+      "id": 69,
+      "name": "Congratulations!",
+      "name_l10n": {
+        "en": "Congratulations!",
+        "zh": "恭喜！",
+        "zh_Hant_TW": "恭喜！",
+        "zh_Hant_HK": "恭喜！"
+      },
+      "url": "/oss/volt/battery_sounds/j2L9kZ8trpQofcIkhmVP8VDciANsCa7bj9e9F2HX.mp3"
+    },
+    {
+      "id": 70,
+      "name": "Onichan",
+      "name_l10n": {
+        "en": "Onichan",
+        "zh": "欧尼酱",
+        "zh_Hant_TW": "歐尼醬",
+        "zh_Hant_HK": "歐尼醬"
+      },
+      "url": "/oss/volt/battery_sounds/sn2a57FsViRoZrvKavWMyMn0iEFN35NxkabnsbGo.mp3"
+    },
+    {
+      "id": 71,
+      "name": "Poipoi",
+      "name_l10n": {
+        "en": "Poipoi",
+        "zh": "坡伊坡伊",
+        "zh_Hant_TW": "坡伊坡伊",
+        "zh_Hant_HK": "坡伊坡伊"
+      },
+      "url": "/oss/volt/battery_sounds/YU3MUijpY77fDtPkzlpkro6sv96fwipqC4w07kpc.mp3"
+    },
+    {
+      "id": 72,
+      "name": "Nya!",
+      "name_l10n": {
+        "en": "Nya!",
+        "zh": "喵！",
+        "zh_Hant_TW": "喵！",
+        "zh_Hant_HK": "喵！"
+      },
+      "url": "/oss/volt/battery_sounds/B873ZzPxdnq0gozwkwtZlumUaI7vlxm29cCF6AOY.mp3"
+    },
+    {
+      "id": 73,
+      "name": "Tuturu",
+      "name_l10n": {
+        "en": "Tuturu",
+        "zh": "突突露",
+        "zh_Hant_TW": "突突露",
+        "zh_Hant_HK": "突突露"
+      },
+      "url": "/oss/volt/battery_sounds/iVlmh4B3QTnacZZ1VxpQnmGQ9HDL3DXZt5krC1wY.mp3"
+    },
+    {
+      "id": 74,
+      "name": "Sakura",
+      "name_l10n": {
+        "en": "Sakura",
+        "zh": "樱花",
+        "zh_Hant_TW": "櫻花",
+        "zh_Hant_HK": "櫻花"
+      },
+      "url": "/oss/volt/battery_sounds/n2zhU7fkoAxOUhtHtn1ercEe3kkFlNHqzhxevho5.mp3"
+    },
+    {
+      "id": 75,
+      "name": "Ah!",
+      "name_l10n": {
+        "en": "Ah!",
+        "zh": "啊！",
+        "zh_Hant_TW": "啊！",
+        "zh_Hant_HK": "啊！"
+      },
+      "url": "/oss/volt/battery_sounds/TQP5we9jVPUfDIYxnpgQlsd53FyWhzHkyrtMItBO.mp3"
+    },
+    {
+      "id": 81,
+      "name": "Jingle Bells",
+      "name_l10n": {
+        "en": "Jingle Bells",
+        "zh": "铃儿响叮当",
+        "zh_Hant_TW": "鈴兒響叮當",
+        "zh_Hant_HK": "鈴兒響叮當"
+      },
+      "url": "/oss/volt/battery_sounds/Vf5nX2EUeR8sQucJG2U9UTyb4gv5vpUm9TbLvFua.mp3"
+    },
+    {
+      "id": 82,
+      "name": "Happy New Year",
+      "name_l10n": {
+        "en": "Happy New Year",
+        "zh": "新年快乐",
+        "zh_Hant_TW": "新年快樂",
+        "zh_Hant_HK": "新年快樂"
+      },
+      "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+    },
+    {
+      "id": 83,
+      "name": "Santa's Coming",
+      "name_l10n": {
+        "en": "Santa's Coming",
+        "zh": "圣诞老人要来了",
+        "zh_Hant_TW": "聖誕老人要來了",
+        "zh_Hant_HK": "聖誕老人要來了"
+      },
+      "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+    }
+  ]
+}
