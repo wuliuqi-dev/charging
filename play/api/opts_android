@@ -19,5 +19,22 @@
       "sku": "subs_2.y.3_14",
       "is_default": true
     }
+  ],
+  "ads": [
+    {
+      "type": 2,
+      "position": 5,
+      "unit_id": "ca-app-pub-8230910529822926/9234110192"
+    },
+    {
+      "type": 2,
+      "position": 6,
+      "unit_id": "ca-app-pub-8230910529822926/1923113301"
+    },
+    {
+      "type": 2,
+      "position": 7,
+      "unit_id": "ca-app-pub-8230910529822926/5720749900"
+    }
   ]
 }
