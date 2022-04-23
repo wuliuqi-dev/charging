@@ -7,7 +7,13 @@
         "en": "Citrine",
         "zh": "水晶黄",
         "zh_Hant_TW": "水晶黃",
-        "zh_Hant_HK": "水晶黃"
+        "zh_Hant_HK": "水晶黃",
+        "ru": "Лимонный",
+        "ja": "レモン色",
+        "hi": "सिट्रीन",
+        "fr": "Citrine",
+        "es": "Cetrino",
+        "de": "Citrin"
       },
       "color": "#ffffb200",
       "stroke": false
@@ -19,7 +25,13 @@
         "en": "Ice White",
         "zh": "雪白",
         "zh_Hant_TW": "雪白",
-        "zh_Hant_HK": "雪白"
+        "zh_Hant_HK": "雪白",
+        "ru": "Белоснежный",
+        "ja": "アイスホワイト",
+        "hi": "आइस वाइट",
+        "fr": "Blanc glacé",
+        "es": "Blanco hielo",
+        "de": "Eisweiß"
       },
       "color": "#ffffffff",
       "stroke": false
@@ -31,7 +43,13 @@
         "en": "Night Black",
         "zh": "夜幕黑",
         "zh_Hant_TW": "夜幕黑",
-        "zh_Hant_HK": "夜幕黑"
+        "zh_Hant_HK": "夜幕黑",
+        "ru": "Ночной черный",
+        "ja": "ナイトブラック",
+        "hi": "नाइट ब्लैक",
+        "fr": "Noir nuit",
+        "es": "Negro noche",
+        "de": "Nachtschwarz"
       },
       "color": "#ff000000",
       "stroke": true
@@ -43,7 +61,13 @@
         "en": "Evening Pink",
         "zh": "暮粉色",
         "zh_Hant_TW": "暮粉色",
-        "zh_Hant_HK": "暮粉色"
+        "zh_Hant_HK": "暮粉色",
+        "ru": "Розовый закат",
+        "ja": "イヴニングピンク",
+        "hi": "इवनिंग पिंक",
+        "fr": "Rose du soir",
+        "es": "Rosa atardecer",
+        "de": "Altrosa"
       },
       "color": "#fffe87f1",
       "stroke": false
@@ -55,7 +79,13 @@
         "en": "Midnight Blue",
         "zh": "午夜蓝",
         "zh_Hant_TW": "午夜藍",
-        "zh_Hant_HK": "午夜藍"
+        "zh_Hant_HK": "午夜藍",
+        "ru": "Полуночный синий",
+        "ja": "ミッドナイトブルー",
+        "hi": "मिडनाइट ब्लू",
+        "fr": "Bleu nuit",
+        "es": "Azul de medianoche",
+        "de": "Mitternachtsblau"
       },
       "color": "#ff3a43b9",
       "stroke": false
@@ -67,7 +97,13 @@
         "en": "Apatite",
         "zh": "磷灰色",
         "zh_Hant_TW": "磷灰色",
-        "zh_Hant_HK": "磷灰色"
+        "zh_Hant_HK": "磷灰色",
+        "ru": "Голубой апатит",
+        "ja": "アパタイト",
+        "hi": "एपेटाइट",
+        "fr": "Apatite",
+        "es": "Apatita",
+        "de": "Apatit"
       },
       "color": "#ff40d6ff",
       "stroke": false
@@ -177,6 +213,114 @@
     {
       "id": 29,
       "url": "/oss/volt/battery_lightnings/NitJsqZ9VwAPerxMfXJ3OFIIAou58hLi86BNz96Z.png"
+    },
+    {
+      "id": 30,
+      "url": "/oss/volt/battery_lightnings/yCxkGiAs3NMPe0UrHvfjiSVFAmNQoQa5Q1zqLtpE.png"
+    },
+    {
+      "id": 31,
+      "url": "/oss/volt/battery_lightnings/37nkw586LbiOJhbeQoDfwWYj1tAEKSKpttE3haSV.png"
+    },
+    {
+      "id": 32,
+      "url": "/oss/volt/battery_lightnings/6nFoI1vdzA3Yxrix41T677AMRdIjXn9fFqduXYpE.png"
+    },
+    {
+      "id": 33,
+      "url": "/oss/volt/battery_lightnings/GVoVowmPSI9cjW9k8TRDagC6vmEa52WEHTYWK1D8.png"
+    },
+    {
+      "id": 34,
+      "url": "/oss/volt/battery_lightnings/e7B0rx9mGUA2AZQOSFujhqoZ2TJeWpneQFeUjiUM.png"
+    },
+    {
+      "id": 35,
+      "url": "/oss/volt/battery_lightnings/9H45sIwdXFcuCYbCp2vf6Ej0FSsjKEm2vgNVbj0E.png"
+    },
+    {
+      "id": 36,
+      "url": "/oss/volt/battery_lightnings/mYdMpbVrrFtAS1iF2YpEho43FyndUOb4DJLth2dt.png"
+    },
+    {
+      "id": 37,
+      "url": "/oss/volt/battery_lightnings/VW61UlqJ9pCniwEEKUSzjSXeyOwpxGeR7leNfGre.png"
+    },
+    {
+      "id": 38,
+      "url": "/oss/volt/battery_lightnings/PmIty7Rhpfek0JNpwbeQLf6DynihRXkSLoFsxFL5.png"
+    },
+    {
+      "id": 39,
+      "url": "/oss/volt/battery_lightnings/2gJYApU1xWK3SxLTKzxbchZjjGjgaTyDHNDDlYMo.png"
+    },
+    {
+      "id": 40,
+      "url": "/oss/volt/battery_lightnings/TwwZaECfNKBMfLz5pcN4uxFIMoAOiGxSK7G8qka1.png"
+    },
+    {
+      "id": 41,
+      "url": "/oss/volt/battery_lightnings/EUJXwpWClfo0PMNDTNjExbPMNrXhtO96PJn7611T.png"
+    },
+    {
+      "id": 42,
+      "url": "/oss/volt/battery_lightnings/Pdyx92WY1JsNUjTT8goWwOWsMYy32hRCStXrauty.png"
+    },
+    {
+      "id": 43,
+      "url": "/oss/volt/battery_lightnings/GKNsFhFdGh2d7xK0WiVTR3FArICkxK9sukvVrULd.png"
+    },
+    {
+      "id": 44,
+      "url": "/oss/volt/battery_lightnings/Nrb6W7Azu01Z9tjSr31pihz3b6UJ1EZEOod7m78O.png"
+    },
+    {
+      "id": 45,
+      "url": "/oss/volt/battery_lightnings/F5JjqBOLKz5mdaVuhvOj0SvSW85HcC93yYaAokxo.png"
+    },
+    {
+      "id": 46,
+      "url": "/oss/volt/battery_lightnings/mwIOeoo3BXWTXxkO9lPsuuMzcV7Qlnnh1pgZgKB3.png"
+    },
+    {
+      "id": 47,
+      "url": "/oss/volt/battery_lightnings/5fNQy5kNd3NoAPL9Pqfc5pJCX7WV8OoPaa7G7NV7.png"
+    },
+    {
+      "id": 48,
+      "url": "/oss/volt/battery_lightnings/HhNibqfsT4dXM7oCmyTOjTZaLzD9bYUuJnFgGiF4.png"
+    },
+    {
+      "id": 49,
+      "url": "/oss/volt/battery_lightnings/s1s8v6x2epNnaR3gBXypZQPkEk2cKlG15FJBZaMd.png"
+    },
+    {
+      "id": 50,
+      "url": "/oss/volt/battery_lightnings/GAjZyl7sPtainNEyHoVBlhcYB7drkzGPlRZDiBtW.png"
+    },
+    {
+      "id": 51,
+      "url": "/oss/volt/battery_lightnings/YS6VeTMb8eoCkVw9pF2SbHuBBL3aXInqG4k7wwc2.png"
+    },
+    {
+      "id": 52,
+      "url": "/oss/volt/battery_lightnings/qmUmC4v0jDSS97UtLw0ecU0RyYGsN04MYnLGbJ2w.png"
+    },
+    {
+      "id": 53,
+      "url": "/oss/volt/battery_lightnings/EGAvPTd2qFKtQPORVPybAaJw9EMPjeNUZNCQYhON.png"
+    },
+    {
+      "id": 54,
+      "url": "/oss/volt/battery_lightnings/dtNFhMkVCsnGCsMPR2NbsO59oOIwROKa7auq3khv.png"
+    },
+    {
+      "id": 55,
+      "url": "/oss/volt/battery_lightnings/OPup8lFrD3xqfDV1fxGtR6In9JF7Pwj6B3fvptXf.png"
+    },
+    {
+      "id": 56,
+      "url": "/oss/volt/battery_lightnings/K4K3jLhT6TWyRgvWd1zQBHIqP0QYGz80wpAe9xvn.png"
     }
   ],
   "sounds": [
@@ -187,9 +331,15 @@
         "en": "Ahaha!",
         "zh": "哈哈!",
         "zh_Hant_TW": "哈哈!",
-        "zh_Hant_HK": "哈哈!"
+        "zh_Hant_HK": "哈哈!",
+        "ru": "Ахаха!",
+        "ja": "アハハ！",
+        "hi": "अहाहा!",
+        "fr": "Ahaha !",
+        "es": "¡Ja, ja!",
+        "de": "Ahaha!"
       },
-      "url": "/oss/volt/battery_sounds/xQi3EDJ3nZXPtt32vK8mh7XIb2dgy47oCRcr1PJV.mp3"
+      "url": "/oss/volt/battery_sounds/nhUO9osKsAcI6BS0xdWBmAq2UYG5w9mjdwhQYaRs.mp3"
     },
     {
       "id": 35,
@@ -198,9 +348,15 @@
         "en": "Demon",
         "zh": "恶魔",
         "zh_Hant_TW": "惡魔",
-        "zh_Hant_HK": "惡魔"
+        "zh_Hant_HK": "惡魔",
+        "ru": "Демон",
+        "ja": "悪魔",
+        "hi": "दानव",
+        "fr": "Démon",
+        "es": "Demonio",
+        "de": "Dämon"
       },
-      "url": "/oss/volt/battery_sounds/SVYlvbBhoWLOrnSUWsltSiOHB31SvrSYcxusoytv.mp3"
+      "url": "/oss/volt/battery_sounds/2cy98dPntCYO6zWgk3bdC8rcJJRfFdWDMMPSxQEA.mp3"
     },
     {
       "id": 36,
@@ -209,20 +365,32 @@
         "en": "Glass Smash",
         "zh": "玻璃打碎",
         "zh_Hant_TW": "玻璃打碎",
-        "zh_Hant_HK": "玻璃打碎"
+        "zh_Hant_HK": "玻璃打碎",
+        "ru": "Разбитое стекло",
+        "ja": "ガラス粉砕",
+        "hi": "ग्लास स्मैश",
+        "fr": "Fracas de verre",
+        "es": "Golpe de cristal",
+        "de": "Glas zerschmettern"
       },
-      "url": "/oss/volt/battery_sounds/9elwGey3i3OEm3EIiqEM4Pz25cKakk8kzKfbAkRz.mp3"
+      "url": "/oss/volt/battery_sounds/NUNYR0huM9b90ZNz34tZItUHqYWX6Ai8KOoe1Y9C.mp3"
     },
     {
       "id": 37,
       "name": "Hit",
       "name_l10n": {
         "en": "Hit",
-        "zh": "击打",
-        "zh_Hant_TW": "擊打",
-        "zh_Hant_HK": "擊打"
+        "zh": "打击",
+        "zh_Hant_TW": "打擊",
+        "zh_Hant_HK": "打擊",
+        "ru": "Удар",
+        "ja": "ヒット",
+        "hi": "हिट",
+        "fr": "Frappé",
+        "es": "Golpe",
+        "de": "Treffer"
       },
-      "url": "/oss/volt/battery_sounds/b2MT2ViNBtu7N42oulJ1WgsL8a6pP6vIo76wKkcf.mp3"
+      "url": "/oss/volt/battery_sounds/L7IG6hQy7ykYMtvFKLl6mFX9cJwtVVuJGGMsG3OZ.mp3"
     },
     {
       "id": 38,
@@ -231,9 +399,15 @@
         "en": "Horror",
         "zh": "恐怖",
         "zh_Hant_TW": "恐怖",
-        "zh_Hant_HK": "恐怖"
+        "zh_Hant_HK": "恐怖",
+        "ru": "Ужас",
+        "ja": "ホラー",
+        "hi": "डरावनी",
+        "fr": "Horreur",
+        "es": "Horror",
+        "de": "Horror"
       },
-      "url": "/oss/volt/battery_sounds/4LiAEYXmpZOIsOFnj1zeCWKvmu9w7oNhVCxJRJUx.mp3"
+      "url": "/oss/volt/battery_sounds/VV5kjp4RJnZoinhdMW8KxEY2nvjnmHDIRXK2dsAF.mp3"
     },
     {
       "id": 39,
@@ -242,9 +416,15 @@
         "en": "Metal",
         "zh": "金属",
         "zh_Hant_TW": "金屬",
-        "zh_Hant_HK": "金屬"
+        "zh_Hant_HK": "金屬",
+        "ru": "Металл",
+        "ja": "メタル",
+        "hi": "धातु",
+        "fr": "Métal",
+        "es": "Metal",
+        "de": "Metall"
       },
-      "url": "/oss/volt/battery_sounds/Z33u5PPM8vHmOSwDCK1ZlETSMo3J9Dk9ZcScAQsK.mp3"
+      "url": "/oss/volt/battery_sounds/kpUGFSe2wFjb1q35WcsHlfXcVmai9DMCRWIg7E2H.mp3"
     },
     {
       "id": 40,
@@ -253,9 +433,15 @@
         "en": "Mission Complete",
         "zh": "任务完成",
         "zh_Hant_TW": "任務完成",
-        "zh_Hant_HK": "任務完成"
+        "zh_Hant_HK": "任務完成",
+        "ru": "Миссия выполнена",
+        "ja": "ミッションコンプリート",
+        "hi": "मिशन पूरा हुआ",
+        "fr": "Mission accomplie",
+        "es": "Misión completa",
+        "de": "Mission abgeschlossen"
       },
-      "url": "/oss/volt/battery_sounds/eaE7IlNTydQLkaVOGXCSwrIddU63SO7bpgBeQ8pA.mp3"
+      "url": "/oss/volt/battery_sounds/3i1ZQOhZ0W2Vab1gcwV5NRizL6kdVbBQ37Y0qbqf.mp3"
     },
     {
       "id": 41,
@@ -264,20 +450,32 @@
         "en": "Ninja",
         "zh": "忍者",
         "zh_Hant_TW": "忍者",
-        "zh_Hant_HK": "忍者"
+        "zh_Hant_HK": "忍者",
+        "ru": "Ниндзя",
+        "ja": "ニンジャ",
+        "hi": "निंजा",
+        "fr": "Ninja",
+        "es": "Ninja",
+        "de": "Ninja"
       },
-      "url": "/oss/volt/battery_sounds/PW8CMAx32L6o3THJJKGA0HwQujdu62M0x4N37aFf.mp3"
+      "url": "/oss/volt/battery_sounds/zRyVOTfQjSAhnLs8AE8AmXEhmJ9AnyFSC2dActZj.mp3"
     },
     {
       "id": 42,
       "name": "Ogre Laugh",
       "name_l10n": {
         "en": "Ogre Laugh",
-        "zh": "Ogre的笑",
-        "zh_Hant_TW": "Ogre的笑",
-        "zh_Hant_HK": "Ogre的笑"
+        "zh": "Ogre 的笑",
+        "zh_Hant_TW": "Ogre 的笑",
+        "zh_Hant_HK": "Ogre 的笑",
+        "ru": "Демонический смех",
+        "ja": "鬼の笑い",
+        "hi": "ओग्रे हस रहा है",
+        "fr": "Rire d'ogre",
+        "es": "Risa de ogro",
+        "de": "Lachender Oger"
       },
-      "url": "/oss/volt/battery_sounds/YUa5ImBgHVvV8Ao69fpZsgEZpNQVWraq52Egi4wK.mp3"
+      "url": "/oss/volt/battery_sounds/8v1XSfEyVRFyl5wVbkDmIOPQCCKELUP3tKLM65mS.mp3"
     },
     {
       "id": 43,
@@ -286,9 +484,15 @@
         "en": "Ooh La La",
         "zh": "哦啦啦",
         "zh_Hant_TW": "哦啦啦",
-        "zh_Hant_HK": "哦啦啦"
+        "zh_Hant_HK": "哦啦啦",
+        "ru": "О ла-ла",
+        "ja": "おやおや",
+        "hi": "ऊह ला ला",
+        "fr": "Oh la la",
+        "es": "Ooh La La",
+        "de": "Oh là là"
       },
-      "url": "/oss/volt/battery_sounds/iwpHF7yPdD1XaTlFCRq9bTgxB2Lt33UQaywOLnXC.mp3"
+      "url": "/oss/volt/battery_sounds/ahmNGaHPVcea4FuPedJfxZKpb4GellddTW4dwPNt.mp3"
     },
     {
       "id": 44,
@@ -297,9 +501,15 @@
         "en": "Ping Pong",
         "zh": "乒乓",
         "zh_Hant_TW": "乒乓",
-        "zh_Hant_HK": "乒乓"
+        "zh_Hant_HK": "乒乓",
+        "ru": "Пинг-понг",
+        "ja": "ピンポン",
+        "hi": "पिंग पांग",
+        "fr": "Ping pong",
+        "es": "Tenis de mesa",
+        "de": "Ping Pong"
       },
-      "url": "/oss/volt/battery_sounds/c6YmwqFU1cdX32OeIretkyxoRqdzY6bI027flxJF.mp3"
+      "url": "/oss/volt/battery_sounds/xPW1PRcWHpElOSjWVyrV3jmA6vRW63mREdQyykaj.mp3"
     },
     {
       "id": 45,
@@ -308,9 +518,15 @@
         "en": "Positive",
         "zh": "积极的",
         "zh_Hant_TW": "積極的",
-        "zh_Hant_HK": "積極的"
+        "zh_Hant_HK": "積極的",
+        "ru": "Позитив",
+        "ja": "ポジティブ",
+        "hi": "पॉजिटिव",
+        "fr": "Positif",
+        "es": "Positivo",
+        "de": "Positiv"
       },
-      "url": "/oss/volt/battery_sounds/N8tUDWAyzwd5mEpVU05RhmBoit6EA13cUyMbefAJ.mp3"
+      "url": "/oss/volt/battery_sounds/BXjBuIDNb6ddtO17owLnYHp9SeAGmEAZTby6roHc.mp3"
     },
     {
       "id": 46,
@@ -319,9 +535,15 @@
         "en": "Power",
         "zh": "力量",
         "zh_Hant_TW": "力量",
-        "zh_Hant_HK": "力量"
+        "zh_Hant_HK": "力量",
+        "ru": "Мощность",
+        "ja": "パワー",
+        "hi": "शक्ति",
+        "fr": "Pouvoir",
+        "es": "Poder",
+        "de": "Power"
       },
-      "url": "/oss/volt/battery_sounds/XqJni1D8iI2RHEeRsrLXjY71B3xxF4JJKlZtt8e3.mp3"
+      "url": "/oss/volt/battery_sounds/NN5xGyFoTv2el6XlaXyFoQIHdSeu41i3rQ6nYijd.mp3"
     },
     {
       "id": 47,
@@ -330,9 +552,15 @@
         "en": "Self-destruction",
         "zh": "自我毁灭",
         "zh_Hant_TW": "自我毀滅",
-        "zh_Hant_HK": "自我毀滅"
+        "zh_Hant_HK": "自我毀滅",
+        "ru": "Самоуничтожение",
+        "ja": "自滅",
+        "hi": "आत्म विनाश",
+        "fr": "Auto destruction",
+        "es": "Autodestrucción",
+        "de": "Selbstzerstörung"
       },
-      "url": "/oss/volt/battery_sounds/RNVOdLX70IkezQB4LmPgICjhOHfirLXNaouOj8kj.mp3"
+      "url": "/oss/volt/battery_sounds/NkUjIoMEy1uyJDNFVF8hgZEySfpdXE6MpvzpTF0W.mp3"
     },
     {
       "id": 48,
@@ -341,9 +569,15 @@
         "en": "Snore",
         "zh": "打鼾",
         "zh_Hant_TW": "打鼾",
-        "zh_Hant_HK": "打鼾"
+        "zh_Hant_HK": "打鼾",
+        "ru": "Храп",
+        "ja": "いびき",
+        "hi": "स्नोर",
+        "fr": "Ronfler",
+        "es": "Ronquido",
+        "de": "Schnarchen"
       },
-      "url": "/oss/volt/battery_sounds/4NXSB7IDh9GPg02vKoSItdArHOC0CuhpJFx5VE4b.mp3"
+      "url": "/oss/volt/battery_sounds/c84u8DoRLNzQjv5FLNLXUBzR5zklBiSP901hhdKq.mp3"
     },
     {
       "id": 49,
@@ -352,9 +586,15 @@
         "en": "Spooky Ghost",
         "zh": "令人毛骨悚然的鬼",
         "zh_Hant_TW": "令人毛骨悚然的鬼",
-        "zh_Hant_HK": "令人毛骨悚然的鬼"
+        "zh_Hant_HK": "令人毛骨悚然的鬼",
+        "ru": "Жуткий Призрак",
+        "ja": "不気味な幽霊",
+        "hi": "डरावना भूत",
+        "fr": "Fantôme effrayant",
+        "es": "Fantasma espeluznante",
+        "de": "Unheimlicher Geist"
       },
-      "url": "/oss/volt/battery_sounds/VWm1kDhGUD9UUwVAkBvzawGfWqdgdUns4WBURS3U.mp3"
+      "url": "/oss/volt/battery_sounds/PqjTjwHOi6oL8yel8H0vkprXSSoLnL73itgD2OfV.mp3"
     },
     {
       "id": 50,
@@ -363,9 +603,15 @@
         "en": "Stinger",
         "zh": "喜欢讽刺别人的人",
         "zh_Hant_TW": "喜歡諷刺別人的人",
-        "zh_Hant_HK": "喜歡諷刺別人的人"
+        "zh_Hant_HK": "喜歡諷刺別人的人",
+        "ru": "Скорость Звука",
+        "ja": "刺す人（虫、物）",
+        "hi": "डंक",
+        "fr": "Pétard",
+        "es": "Aguijón",
+        "de": "Stachel"
       },
-      "url": "/oss/volt/battery_sounds/3FT4h8F1JXBkuJlz1qbU7NJQTxsaB2yhQC5SOfPb.mp3"
+      "url": "/oss/volt/battery_sounds/1BmMGCG4r4ZLMqFxfNfKLImukU8lR3YOkUJ62adf.mp3"
     },
     {
       "id": 51,
@@ -374,9 +620,15 @@
         "en": "Umm, Good",
         "zh": "嗯，很好",
         "zh_Hant_TW": "嗯，很好",
-        "zh_Hant_HK": "嗯，很好"
+        "zh_Hant_HK": "嗯，很好",
+        "ru": "Ммм, Хорошо",
+        "ja": "ウーン、いいぞ",
+        "hi": "उम्म, अच्छा",
+        "fr": "Euh, bien",
+        "es": "Hum, bien",
+        "de": "Ähm, gut"
       },
-      "url": "/oss/volt/battery_sounds/smzS5iPGksFtAW9Ghh01GaH1BBqm8k2vl2yDGxWp.mp3"
+      "url": "/oss/volt/battery_sounds/dBsnDVTHGFhgAMw6KXSzXV3ALRBmbmUu5M8z5l6z.mp3"
     },
     {
       "id": 63,
@@ -385,9 +637,15 @@
         "en": "Suki Suki",
         "zh": "书记书记",
         "zh_Hant_TW": "書記書記",
-        "zh_Hant_HK": "書記書記"
+        "zh_Hant_HK": "書記書記",
+        "ru": "Suki Suki",
+        "ja": "好き好き",
+        "hi": "सुकी सुकी",
+        "fr": "Suki Suki",
+        "es": "Suki Suki",
+        "de": "Suki Suki"
       },
-      "url": "/oss/volt/battery_sounds/iojOQvuSvyCJBsvXKwYueOFOvYldxx1yPGBNbO4q.mp3"
+      "url": "/oss/volt/battery_sounds/fBn64k65Vk2KCxCRpc6cEHAVWqIhAwJGANNTkm4x.mp3"
     },
     {
       "id": 64,
@@ -396,9 +654,15 @@
         "en": "Hehe",
         "zh": "呵呵",
         "zh_Hant_TW": "呵呵",
-        "zh_Hant_HK": "呵呵"
+        "zh_Hant_HK": "呵呵",
+        "ru": "Хе-хе",
+        "ja": "えへへ",
+        "hi": "हेहे",
+        "fr": "Hehe",
+        "es": "Hehe",
+        "de": "Hehe"
       },
-      "url": "/oss/volt/battery_sounds/3z29Rs04WwG5vrPZumMszyHksXGPwLx97oRTYCWt.mp3"
+      "url": "/oss/volt/battery_sounds/nNbKtluHDnBJP5hgExizK7OukdW6GfMnVynYO2g9.mp3"
     },
     {
       "id": 65,
@@ -407,9 +671,15 @@
         "en": "Wow!",
         "zh": "哇哦！",
         "zh_Hant_TW": "哇哦！",
-        "zh_Hant_HK": "哇哦！"
+        "zh_Hant_HK": "哇哦！",
+        "ru": "Вау!",
+        "ja": "ワ〜オ！",
+        "hi": "वाउ!",
+        "fr": "Wow!",
+        "es": "Wow!",
+        "de": "Wow!"
       },
-      "url": "/oss/volt/battery_sounds/DEeYvABGaFH758W4G0eMJSXUhcRn2a3XySM9GplC.mp3"
+      "url": "/oss/volt/battery_sounds/D9FTxBCI6PSzx9YOdu8davOS0tDOOm9C5Y4fIAhT.mp3"
     },
     {
       "id": 66,
@@ -418,9 +688,15 @@
         "en": "Panpakapan",
         "zh": "胖帕卡胖",
         "zh_Hant_TW": "胖帕卡胖",
-        "zh_Hant_HK": "胖帕卡胖"
+        "zh_Hant_HK": "胖帕卡胖",
+        "ru": "Panpakapan",
+        "ja": "パンパカパーン",
+        "hi": "पैंपकापैं",
+        "fr": "Panpakapan",
+        "es": "Panpakapan",
+        "de": "Panpakapan"
       },
-      "url": "/oss/volt/battery_sounds/NatwKMhRj88f98BSOyqhmA7GFSdv4v69Gif0nwz6.mp3"
+      "url": "/oss/volt/battery_sounds/NuUuXie0DERggBec4x5wF10jkFGEM8qLghTN7IGA.mp3"
     },
     {
       "id": 67,
@@ -429,9 +705,15 @@
         "en": "Senpai",
         "zh": "前辈",
         "zh_Hant_TW": "前輩",
-        "zh_Hant_HK": "前輩"
+        "zh_Hant_HK": "前輩",
+        "ru": "Senpai",
+        "ja": "先輩",
+        "hi": "सेनपाई",
+        "fr": "Senpai",
+        "es": "Senpai",
+        "de": "Senpai"
       },
-      "url": "/oss/volt/battery_sounds/sVH0pUUWT8DJdyVPIki8sekoj8ZNG0njpPIpnOLZ.mp3"
+      "url": "/oss/volt/battery_sounds/Wjt1ZA6tVwgKGR5qW1FVGWZpeq3EtDaQtYMyTcbc.mp3"
     },
     {
       "id": 68,
@@ -440,9 +722,15 @@
         "en": "Yametekudasai",
         "zh": "请不要这样",
         "zh_Hant_TW": "請不要這樣",
-        "zh_Hant_HK": "請不要這樣"
+        "zh_Hant_HK": "請不要這樣",
+        "ru": "Yametekudasai",
+        "ja": "やめてください",
+        "hi": "येमेटेकुडासाई",
+        "fr": "Yametekudasai",
+        "es": "Yametekudasai",
+        "de": "Yametekudasai"
       },
-      "url": "/oss/volt/battery_sounds/NyLPf4e7AQ9BHLzGiReImbqYQH8GtPNL5L7o8oKh.mp3"
+      "url": "/oss/volt/battery_sounds/yuF7eXpKagNep5LgZ8wpz6bUi8ruQrXpk9Bf1zl2.mp3"
     },
     {
       "id": 69,
@@ -451,9 +739,15 @@
         "en": "Congratulations!",
         "zh": "恭喜！",
         "zh_Hant_TW": "恭喜！",
-        "zh_Hant_HK": "恭喜！"
+        "zh_Hant_HK": "恭喜！",
+        "ru": "Congratulations!",
+        "ja": "コングラッチュレーション！",
+        "hi": "कंग्रैचुलैशन्‍स!",
+        "fr": "Congratulations!",
+        "es": "Congratulations!",
+        "de": "Congratulations!"
       },
-      "url": "/oss/volt/battery_sounds/j2L9kZ8trpQofcIkhmVP8VDciANsCa7bj9e9F2HX.mp3"
+      "url": "/oss/volt/battery_sounds/SkDoAMNPBXHGc2PbKfKtGrkLSz56MbMQyn6lNSTJ.mp3"
     },
     {
       "id": 70,
@@ -462,9 +756,15 @@
         "en": "Onichan",
         "zh": "欧尼酱",
         "zh_Hant_TW": "歐尼醬",
-        "zh_Hant_HK": "歐尼醬"
+        "zh_Hant_HK": "歐尼醬",
+        "ru": "Onichan",
+        "ja": "お兄ちゃん",
+        "hi": "ओनीचां",
+        "fr": "Onichan",
+        "es": "Onichan",
+        "de": "Onichan"
       },
-      "url": "/oss/volt/battery_sounds/sn2a57FsViRoZrvKavWMyMn0iEFN35NxkabnsbGo.mp3"
+      "url": "/oss/volt/battery_sounds/aU9kOfWInhIYOvYqCmxCHUQg8peb7NsypQhv11D4.mp3"
     },
     {
       "id": 71,
@@ -473,9 +773,15 @@
         "en": "Poipoi",
         "zh": "坡伊坡伊",
         "zh_Hant_TW": "坡伊坡伊",
-        "zh_Hant_HK": "坡伊坡伊"
+        "zh_Hant_HK": "坡伊坡伊",
+        "ru": "Poipoi",
+        "ja": "ぽいぽい",
+        "hi": "पोईपोई",
+        "fr": "Poipoi",
+        "es": "Poipoi",
+        "de": "Poipoi"
       },
-      "url": "/oss/volt/battery_sounds/YU3MUijpY77fDtPkzlpkro6sv96fwipqC4w07kpc.mp3"
+      "url": "/oss/volt/battery_sounds/TkoQyYmmKNylZ1nATEYz6BquJKAlH6lR9mLRMVNx.mp3"
     },
     {
       "id": 72,
@@ -484,9 +790,15 @@
         "en": "Nya!",
         "zh": "喵！",
         "zh_Hant_TW": "喵！",
-        "zh_Hant_HK": "喵！"
+        "zh_Hant_HK": "喵！",
+        "ru": "Nya!",
+        "ja": "にゃあ！",
+        "hi": "न्‍यां!",
+        "fr": "Nya!",
+        "es": "Nya!",
+        "de": "Nya!"
       },
-      "url": "/oss/volt/battery_sounds/B873ZzPxdnq0gozwkwtZlumUaI7vlxm29cCF6AOY.mp3"
+      "url": "/oss/volt/battery_sounds/9AivdtzDDC4Fgl4qt9ek7YRpDg7XcK8C7t2Ewhyb.mp3"
     },
     {
       "id": 73,
@@ -495,9 +807,15 @@
         "en": "Tuturu",
         "zh": "突突露",
         "zh_Hant_TW": "突突露",
-        "zh_Hant_HK": "突突露"
+        "zh_Hant_HK": "突突露",
+        "ru": "Tuturu",
+        "ja": "トゥットゥルー",
+        "hi": "तुतुरू",
+        "fr": "Tuturu",
+        "es": "Tuturu",
+        "de": "Tuturu"
       },
-      "url": "/oss/volt/battery_sounds/iVlmh4B3QTnacZZ1VxpQnmGQ9HDL3DXZt5krC1wY.mp3"
+      "url": "/oss/volt/battery_sounds/W3DOtm7GnCQx5DsoTCEebAL8bkQ7FV3FVqxrhl5h.mp3"
     },
     {
       "id": 74,
@@ -506,9 +824,15 @@
         "en": "Sakura",
         "zh": "樱花",
         "zh_Hant_TW": "櫻花",
-        "zh_Hant_HK": "櫻花"
+        "zh_Hant_HK": "櫻花",
+        "ru": "Сакура",
+        "ja": "桜",
+        "hi": "सकुरा",
+        "fr": "Sakura",
+        "es": "Sakura",
+        "de": "Sakura"
       },
-      "url": "/oss/volt/battery_sounds/n2zhU7fkoAxOUhtHtn1ercEe3kkFlNHqzhxevho5.mp3"
+      "url": "/oss/volt/battery_sounds/EVu9kYlOwA1AwpR9JdTxS6wONrI5eHGzqLv82nkX.mp3"
     },
     {
       "id": 75,
@@ -517,9 +841,15 @@
         "en": "Ah!",
         "zh": "啊！",
         "zh_Hant_TW": "啊！",
-        "zh_Hant_HK": "啊！"
+        "zh_Hant_HK": "啊！",
+        "ru": "Ах!",
+        "ja": "あっ！",
+        "hi": "अह!",
+        "fr": "Ah!",
+        "es": "Ah!",
+        "de": "Ah!"
       },
-      "url": "/oss/volt/battery_sounds/TQP5we9jVPUfDIYxnpgQlsd53FyWhzHkyrtMItBO.mp3"
+      "url": "/oss/volt/battery_sounds/q0Fn3G0Dc0XNZehQlq5LfPhGBp3brvBxEjD6PA3Z.mp3"
     },
     {
       "id": 81,
@@ -528,9 +858,15 @@
         "en": "Jingle Bells",
         "zh": "铃儿响叮当",
         "zh_Hant_TW": "鈴兒響叮當",
-        "zh_Hant_HK": "鈴兒響叮當"
+        "zh_Hant_HK": "鈴兒響叮當",
+        "ru": "Jingle Bells",
+        "ja": "ジングルベル",
+        "hi": "जिंगल बेल",
+        "fr": "Vive le vent",
+        "es": "Cascabeles",
+        "de": "Jingle Bells"
       },
-      "url": "/oss/volt/battery_sounds/Vf5nX2EUeR8sQucJG2U9UTyb4gv5vpUm9TbLvFua.mp3"
+      "url": "/oss/volt/battery_sounds/bpkcbj852xAm1spioRtkrdPmuPWcu0RPkIUGcetC.mp3"
     },
     {
       "id": 82,
@@ -539,9 +875,15 @@
         "en": "Happy New Year",
         "zh": "新年快乐",
         "zh_Hant_TW": "新年快樂",
-        "zh_Hant_HK": "新年快樂"
+        "zh_Hant_HK": "新年快樂",
+        "ru": "С Новым Годом!",
+        "ja": "あけましておめでとう",
+        "hi": "नए साल की शुभकामना",
+        "fr": "Bonne année",
+        "es": "Feliz año nuevo",
+        "de": "Frohes neues Jahr"
       },
-      "url": "/oss/volt/battery_sounds/LiPGHztKYJpEbKXH1fPHip6MZ2oZq9nWhUNYthGf.mp3"
+      "url": "/oss/volt/battery_sounds/iXYWUkPZAU34o8RAVbSVrktuiKP3l5v41RQUQWQp.mp3"
     },
     {
       "id": 83,
@@ -550,9 +892,270 @@
         "en": "Santa's Coming",
         "zh": "圣诞老人要来了",
         "zh_Hant_TW": "聖誕老人要來了",
-        "zh_Hant_HK": "聖誕老人要來了"
+        "zh_Hant_HK": "聖誕老人要來了",
+        "ru": "Санта у порога",
+        "ja": "サンタがやって来る",
+        "hi": "सांता आ रहा है",
+        "fr": "Le Père Noël arrive",
+        "es": "Ya viene Papá Noel",
+        "de": "Der Weihnachtsmann"
       },
-      "url": "/oss/volt/battery_sounds/pj93PdvvhtLFXQDhT8Vg4TMb3jcy6WS43ag9axp9.mp3"
+      "url": "/oss/volt/battery_sounds/aiU1bbaHMhHthASzR1j37N6uPUdQiCz5qNC8FTsn.mp3"
+    },
+    {
+      "id": 84,
+      "name": "Survive the Game",
+      "name_l10n": {
+        "en": "Survive the Game",
+        "zh": "生存游戏",
+        "zh_Hant_TW": "生存游戲",
+        "zh_Hant_HK": "生存游戲",
+        "ru": "Игра на выживание",
+        "ja": "ゲームを生き抜け",
+        "hi": "गेम में बने रहें",
+        "fr": "Survivre au jeu",
+        "es": "Sobrevive al juego",
+        "de": "Überlebe das Spiel"
+      },
+      "url": "/oss/volt/battery_sounds/NrC7F977SIIMqcMUKPN39yaCSUoFsoJNRS3kLHmT.mp3"
+    },
+    {
+      "id": 85,
+      "name": "Romance",
+      "name_l10n": {
+        "en": "Romance",
+        "zh": "浪漫爱情",
+        "zh_Hant_TW": "浪漫愛情",
+        "zh_Hant_HK": "浪漫愛情",
+        "ru": "Роман",
+        "ja": "ロマンス",
+        "hi": "रोमांस",
+        "fr": "Romance",
+        "es": "Romance",
+        "de": "Romantik"
+      },
+      "url": "/oss/volt/battery_sounds/cMEov5GjO9ZWgerDdygXtX95Eu5Lnw8PpWfiMiJ8.mp3"
+    },
+    {
+      "id": 86,
+      "name": "Magic Love",
+      "name_l10n": {
+        "en": "Magic Love",
+        "zh": "神奇的爱",
+        "zh_Hant_TW": "神奇的愛",
+        "zh_Hant_HK": "神奇的愛",
+        "ru": "Магия любви",
+        "ja": "魔法の恋",
+        "hi": "अनोखा प्यार",
+        "fr": "Amour magique",
+        "es": "Amor mágico",
+        "de": "Magie der Liebe"
+      },
+      "url": "/oss/volt/battery_sounds/MxzoDpvsZVEm7HZc13cO8kwQzskwBmSkc9VlFRET.mp3"
+    },
+    {
+      "id": 87,
+      "name": "Kiss You",
+      "name_l10n": {
+        "en": "Kiss You",
+        "zh": "吻你",
+        "zh_Hant_TW": "吻你",
+        "zh_Hant_HK": "吻你",
+        "ru": "Поцелуйчик",
+        "ja": "あなたにキス",
+        "hi": "आपके लिए किस",
+        "fr": "T'embrasser",
+        "es": "Besarte",
+        "de": "Dich küssen"
+      },
+      "url": "/oss/volt/battery_sounds/vrapzsEz9vWIr1Cqv9YX1STPKH8eYTlPAyOjDDlz.mp3"
+    },
+    {
+      "id": 88,
+      "name": "Confusion",
+      "name_l10n": {
+        "en": "Confusion",
+        "zh": "困惑",
+        "zh_Hant_TW": "困惑",
+        "zh_Hant_HK": "困惑",
+        "ru": "Смятение",
+        "ja": "錯乱",
+        "hi": "सम्भ्रम",
+        "fr": "Confusion",
+        "es": "Confusión",
+        "de": "Verwechslung"
+      },
+      "url": "/oss/volt/battery_sounds/71QG14J94kgoxq4me0Sqnyq7rSMcae8njmNilFjo.mp3"
+    },
+    {
+      "id": 89,
+      "name": "Uwu Dance",
+      "name_l10n": {
+        "en": "Uwu Dance",
+        "zh": "UwU 跳舞",
+        "zh_Hant_TW": "UwU 跳舞",
+        "zh_Hant_HK": "UwU 跳舞",
+        "ru": "Танец UwU",
+        "ja": "う〜んダンス",
+        "hi": "उवू डांस",
+        "fr": "Danse UwU",
+        "es": "Baile UwU",
+        "de": "UwU-Tanz"
+      },
+      "url": "/oss/volt/battery_sounds/qM9l2VgbLDVJw4DHh6Gjf8IpJE72YtfxsRyqWsWc.mp3"
+    },
+    {
+      "id": 90,
+      "name": "Aww",
+      "name_l10n": {
+        "en": "Aww",
+        "zh": "哇！",
+        "zh_Hant_TW": "哇！",
+        "zh_Hant_HK": "哇！",
+        "ru": "Ой!",
+        "ja": "ああ",
+        "hi": "ओह",
+        "fr": "Oh !",
+        "es": "¡Oooh!",
+        "de": "Ooh!"
+      },
+      "url": "/oss/volt/battery_sounds/HeINzg3WoKghVzbOhPrwDL3m1AcPbIFCqL2YvtsV.mp3"
+    },
+    {
+      "id": 91,
+      "name": "Groove",
+      "name_l10n": {
+        "en": "Groove",
+        "zh": "节奏",
+        "zh_Hant_TW": "節奏",
+        "zh_Hant_HK": "節奏",
+        "ru": "Грув",
+        "ja": "グルーヴ",
+        "hi": "ग्रूव",
+        "fr": "Groove",
+        "es": "Ritmo",
+        "de": "Groove"
+      },
+      "url": "/oss/volt/battery_sounds/wyCgPhgTZk7rzz0o15FYSj41WC9eJrcjWt7152Ux.mp3"
+    },
+    {
+      "id": 92,
+      "name": "Quack!",
+      "name_l10n": {
+        "en": "Quack!",
+        "zh": "呱呱声！",
+        "zh_Hant_TW": "呱呱聲！",
+        "zh_Hant_HK": "呱呱聲！",
+        "ru": "Ква-ква",
+        "ja": "グワッ！",
+        "hi": "क्वैक!",
+        "fr": "Coin-coin",
+        "es": "¡Cua!",
+        "de": "Quak!"
+      },
+      "url": "/oss/volt/battery_sounds/kTbo2QzjKVWgfIPXuniEH2CTEAIIcWG2A5HNawPi.mp3"
+    },
+    {
+      "id": 93,
+      "name": "Rave Party",
+      "name_l10n": {
+        "en": "Rave Party",
+        "zh": "狂欢派对",
+        "zh_Hant_TW": "狂歡派對",
+        "zh_Hant_HK": "狂歡派對",
+        "ru": "Рейв-пати",
+        "ja": "レイヴ・パーティー",
+        "hi": "रेव पार्टी",
+        "fr": "Rave party",
+        "es": "Fiesta rave",
+        "de": "Rave-Party"
+      },
+      "url": "/oss/volt/battery_sounds/takx5di847j4qZYU6mWWiVoRY2PT1jfYzjLGQJ8p.mp3"
+    },
+    {
+      "id": 94,
+      "name": "Warning",
+      "name_l10n": {
+        "en": "Warning",
+        "zh": "警告",
+        "zh_Hant_TW": "警告",
+        "zh_Hant_HK": "警告",
+        "ru": "Внимание!",
+        "ja": "警告",
+        "hi": "चेतावनी",
+        "fr": "Avertissement",
+        "es": "Advertencia",
+        "de": "Warnung"
+      },
+      "url": "/oss/volt/battery_sounds/bnyssiy0UmnjhXXWE5HLTMc6qNNhSns0S4nDCKcA.mp3"
+    },
+    {
+      "id": 95,
+      "name": "Big Mission",
+      "name_l10n": {
+        "en": "Big Mission",
+        "zh": "大使命",
+        "zh_Hant_TW": "大使命",
+        "zh_Hant_HK": "大使命",
+        "ru": "Важная миссия",
+        "ja": "大きなミッション",
+        "hi": "बड़ा मिशन",
+        "fr": "Grande mission",
+        "es": "Misión Importante",
+        "de": "Große Mission"
+      },
+      "url": "/oss/volt/battery_sounds/FjkLJcEnnURk80f9LWX8mK9RCiz8spi4V1cguwci.mp3"
+    },
+    {
+      "id": 96,
+      "name": "Night Mystery",
+      "name_l10n": {
+        "en": "Night Mystery",
+        "zh": "夜的神秘",
+        "zh_Hant_TW": "夜的神秘",
+        "zh_Hant_HK": "夜的神秘",
+        "ru": "Ночная мистерия",
+        "ja": "夜のミステリー",
+        "hi": "नाइट मिस्ट्री",
+        "fr": "Mystère nocturne",
+        "es": "Misterio nocturno",
+        "de": "Geheimnis der Nacht"
+      },
+      "url": "/oss/volt/battery_sounds/4ntqm44UB9eIa6DHXQHhojvFfMRWTfasBxxVl9Bm.mp3"
+    },
+    {
+      "id": 97,
+      "name": "Enlightenment",
+      "name_l10n": {
+        "en": "Enlightenment",
+        "zh": "启迪",
+        "zh_Hant_TW": "啟迪",
+        "zh_Hant_HK": "啟迪",
+        "ru": "Просветление",
+        "ja": "悟り",
+        "hi": "एनलाइटनमेंट",
+        "fr": "Illumination",
+        "es": "Iluminación",
+        "de": "Erleuchtung"
+      },
+      "url": "/oss/volt/battery_sounds/0jRxBq2XS9jwaNqS5ar0xNghxxl37fNmDlqoE9hj.mp3"
+    },
+    {
+      "id": 98,
+      "name": "Desert Sky",
+      "name_l10n": {
+        "en": "Desert Sky",
+        "zh": "沙漠天空",
+        "zh_Hant_TW": "沙漠天空",
+        "zh_Hant_HK": "沙漠天空",
+        "ru": "Небо в пустыне",
+        "ja": "砂漠の夜",
+        "hi": "डेजर्ट स्काई",
+        "fr": "Ciel du désert",
+        "es": "Cielo del desierto",
+        "de": "Wüstenhimmel"
+      },
+      "url": "/oss/volt/battery_sounds/S9tMFntloORs4dUOVXsM8959WvicbWeldEQr8g45.mp3"
     }
   ]
 }
